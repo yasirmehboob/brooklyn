@@ -98,7 +98,8 @@ img {
   max-width: 40%;
 }
 .footer-widget-about img {
-  max-width: 20%;
+  max-width: 27%;
+  margin-bottom: 30px !important;
 }
 /*-------------------------
      RESET Default Styles

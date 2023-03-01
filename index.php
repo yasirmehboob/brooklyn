@@ -5,8 +5,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <meta name="description" content="Medcity - Medical Healthcare HTML5 Template">
-  <link href="assets/images/favicon/favicon.png" rel="icon">
+  <meta name="description" content="Brooklyn Pharmaceuticals">
   <title>Brooklyn Pharmaceuticals</title>
 
   <link rel="stylesheet"

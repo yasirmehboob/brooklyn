@@ -41,7 +41,7 @@
     <div class="container-fluid">
       <a class="navbar-brand" href="index.php">
         
-        <img src="assets/images/logo/brooklyn-logo.jpg" width="57%" class="logo-dark" alt="logo">
+        <img src="assets/images/logo/logo-dark.png" width="57%" class="logo-dark" alt="logo">
       </a>
       <button class="navbar-toggler" type="button">
         <span class="menu-lines"><span></span></span>

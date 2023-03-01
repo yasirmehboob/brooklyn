@@ -40,8 +40,8 @@
   <nav class="navbar navbar-expand-lg sticky-navbar">
     <div class="container-fluid">
       <a class="navbar-brand" href="index.php">
-        <img src="assets/images/logo/logo-light.png" class="logo-light" alt="logo">
-        <img src="assets/images/logo/logo-dark.png" class="logo-dark" alt="logo">
+        
+        <img src="assets/images/logo/brooklyn-logo.jpg" width="57%" class="logo-dark" alt="logo">
       </a>
       <button class="navbar-toggler" type="button">
         <span class="menu-lines"><span></span></span>
@@ -68,16 +68,14 @@
           </li><!-- /.nav-item -->
 
           
-          <li class="nav__item has-dropdown">
-            <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Get Quote</a>
-            <ul class="dropdown-menu">
           <li class="nav__item">
             <a href="#"  class="nav__item-link">Get Quote</a>
           </li><!-- /.nav-item -->
+
           <li class="nav__item">
-            <a href="faqs.php"  class="nav__item-link">Help & FAQs</a>
+            <a href="faqs.php"  class="nav__item-link">FAQs</a>
           </li><!-- /.nav-item -->
- </ul> <!--End of toggle menu for Get Quote  -->
+ 
 
 
           <li class="nav__item">

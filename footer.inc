@@ -30,6 +30,7 @@
                     <li><a href="products.php">Products</a></li>
                     <li><a href="#">Distributors</a></li>
                     <li><a href="#">Get Quote</a></li>
+                    <li><a href="faqs.php">FAQs</a></li>
                     <li><a href="contact-us.php">Contact Us</a></li>
                   </ul>
                 </nav>

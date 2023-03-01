@@ -25,12 +25,12 @@
                 <h6 class="footer-widget__title">Links</h6>
                 <nav>
                   <ul class="list-unstyled">
-                   <li><a href="#"> Home</a></li>
-                    <li><a href="#">About Us</a></li>
-                    <li><a href="#">Products</a></li>
+                   <li><a href="index.php"> Home</a></li>
+                    <li><a href="about-us.php">About Us</a></li>
+                    <li><a href="products.php">Products</a></li>
                     <li><a href="#">Distributors</a></li>
                     <li><a href="#">Get Quote</a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="contact-us.php">Contact Us</a></li>
                   </ul>
                 </nav>
               </div><!-- /.footer-widget__content -->

@@ -1,0 +1,8 @@
+[23-Sep-2014 05:38:02 UTC] PHP Warning:  include(../news/database.php): failed to open stream: No such file or directory in /home/muphorg/public_html/test/admin/edit/cng-pwd.php on line 6
+[23-Sep-2014 05:38:02 UTC] PHP Warning:  include(../news/database.php): failed to open stream: No such file or directory in /home/muphorg/public_html/test/admin/edit/cng-pwd.php on line 6
+[23-Sep-2014 05:38:02 UTC] PHP Warning:  include(): Failed opening '../news/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/muphorg/public_html/test/admin/edit/cng-pwd.php on line 6
+[23-Sep-2014 05:38:02 UTC] PHP Fatal error:  Class 'Database' not found in /home/muphorg/public_html/test/admin/edit/cng-pwd.php on line 7
+[23-Sep-2014 05:38:02 UTC] PHP Warning:  include(../news/database.php): failed to open stream: No such file or directory in /home/muphorg/public_html/test/admin/edit/cng-pwd.php on line 6
+[23-Sep-2014 05:38:02 UTC] PHP Warning:  include(../news/database.php): failed to open stream: No such file or directory in /home/muphorg/public_html/test/admin/edit/cng-pwd.php on line 6
+[23-Sep-2014 05:38:02 UTC] PHP Warning:  include(): Failed opening '../news/database.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/muphorg/public_html/test/admin/edit/cng-pwd.php on line 6
+[23-Sep-2014 05:38:02 UTC] PHP Fatal error:  Class 'Database' not found in /home/muphorg/public_html/test/admin/edit/cng-pwd.php on line 7

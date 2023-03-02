@@ -1,0 +1,14 @@
+Finding Foreign key and its Parent table
+
+SELECT CONCAT(table_name, '.', column_name) AS 'foreign key', CONCAT(referenced_table_name, '.', referenced_column_name) AS 'references', constraint_name AS 'constraint name' FROM information_schema.key_column_usage WHERE referenced_table_name IS NOT NULL AND table_schema = 'cms' AND table_name = 'city'
+
+
+
+1 - strict mode -- DONE
+2 - push notifcations -- DONE
+3 - email test -- DONE
+4 - newslettr upload -- DONE
+5 - Username Database Field -- DONE
+6 - getStockRequirements -- DONE
+7 - escalateStockRequirement -- DONE
+8 - resolveStockRequirement -- DONE

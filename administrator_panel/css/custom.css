@@ -3286,8 +3286,8 @@ html > body > .ui-pnotify {
 }
 .alert-dark, .btn-dark {
   color: #E9EDEF;
-  background-color: rgba(52, 73, 94, 0.88);
-  border-color: rgba(52, 73, 94, 0.88);
+  background-color: rgb(92 23 135);
+  border-color: rgb(92 23 135);
 }
 .btn-dark:hover {
   color: #F7F7F7;

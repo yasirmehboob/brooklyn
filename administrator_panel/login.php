@@ -75,11 +75,11 @@ session_destroy();
             text-decoration: none;
         }
         a{
-            color: white;
+            color: #767676;
         }
         
         .login_content h1:before{
-    background: rgb(126, 126, 126);
+    background: rgb(92 23 135);
     background: -moz-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
     background: -webkit-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
     background: -o-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
@@ -88,18 +88,18 @@ session_destroy();
     left: 0;
 }
         .login_content h1:after {
-    background: rgb(126, 126, 126);
-    background: -moz-linear-gradient(left, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    background: -webkit-linear-gradient(left, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
+    background: rgb(92 23 135);
+    background: -moz-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
+    background: -webkit-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
     background: -o-linear-gradient(left, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    background: -ms-linear-gradient(left, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    background: linear-gradient(left, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
+    background: -ms-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
+    background: linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
     right: 0;
 }
     </style>
 </head>
 
-<body style="background:#745d9a;">
+<body style="background:#ffffff;">
 
     <div class="">
         <a class="hiddenanchor" id="toregister"></a>
@@ -108,7 +108,7 @@ session_destroy();
         <div id="wrapper">
             <div id="login" class="animate form">
                 <section class="login_content">
-                    <img src="images/logo-w.png" alt="Metafitnosis" width="90%"/>
+                    <img src="images/logo.png" alt="Metafitnosis" width="90%"/>
                     <form action="" method="post" id="login_form">
                         <h1><i class="fa fa-sign-in" aria-hidden="true"></i> Login</h1>
                         <div>

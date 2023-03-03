@@ -59,7 +59,7 @@
 
 
           <li class="nav__item">
-            <a href="shop.php"  class="nav__item-link">Products</a>
+            <a href="products.php"  class="nav__item-link">Products</a>
           </li><!-- /.nav-item -->
 
 

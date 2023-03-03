@@ -4199,10 +4199,15 @@ input[type=radio] {
 /*-------------------------
     Footer
 --------------------------*/
+
+.footer{
+    background-image: url("../images/backgrounds/footer-bg.png") !important;
+    background-repeat: no-repeat;
+}
+
 .footer .footer-primary {
   padding-top: 85px;
   padding-bottom: 60px;
-  background-color: #350653;
 }
 
 .footer .footer-secondary {

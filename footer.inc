@@ -12,7 +12,7 @@
                   compassionate manner. We hope you will allow us to care for you and strive to be the first and best
                   choice for your family healthcare.
                 </p>
-                <a href="shop.php" class="btn btn__primary btn__primary-style2 btn__link">
+                <a href="products.php" class="btn btn__primary btn__primary-style2 btn__link">
                   <span>Order Now</span> <i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.footer-widget__content -->
@@ -42,11 +42,11 @@
                 <ul class="contact-list list-unstyled">
                   <li>If you have any questions or need help, feel free to contact with our team.</li>
                   <li>
-                    <a href="tel:01061245741" class="phone__number">
-                      <i class="icon-phone"></i> <span>01061245741</span>
+                    <a href="tel:(051) 4949539" class="phone__number">
+                      <i class="icon-phone"></i> <span>(051) 4949539</span>
                     </a>
                   </li>
-                  <li class="color-body">2307 Beverley Rd Brooklyn, New York 11226 United States.</li>
+                  <li class="color-body">Small Industries Estate, Taxila, District Rawalpindi .</li>
                 </ul>
                 <div class="d-flex align-items-center">
                   <a href="contact-us.php" class="btn btn__primary btn__link mr-30">

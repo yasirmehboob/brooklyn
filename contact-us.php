@@ -47,7 +47,7 @@
                   <div class="col-sm-12">
                     <h4 class="contact-panel__title">How Can We Help? </h4>
                     <p class="contact-panel__desc mb-30">Please feel welcome to contact our friendly reception staff
-                      with any general or medical enquiry. Our doctors will receive or return any urgent calls.
+                      with any general enquiry.
                     </p>
                   </div>
                   <div class="col-sm-6 col-md-6 col-lg-6">
@@ -100,19 +100,19 @@
                 <div>
                   <h4 class="contact-panel__title color-white">Quick Contacts</h4>
                   <p class="contact-panel__desc font-weight-bold color-white mb-30">Please feel free to contact our
-                    friendly staff with any medical enquiry.
+                    friendly staff for any enquiry.
                   </p>
                 </div>
                 <div>
                   <ul class="contact__list list-unstyled mb-30">
                     <li>
-                      <i class="icon-phone"></i><a href="tel:+5565454117">Emergency Line: (002) 01061245741</a>
+                      <i class="icon-phone"></i><a href="tel:(051) 4949539">Emergency Line: (051) 4949539</a>
                     </li>
                     <li>
-                      <i class="icon-location"></i><a href="#">Location: Brooklyn, New York</a>
+                      <i class="icon-location"></i><a href="#">Location: Brooklyn Pharmaceuticals, Taxila Rawalpindi</a>
                     </li>
                     <li>
-                      <i class="icon-clock"></i><a href="contact-us.html">Mon - Fri: 8:00 am - 7:00 pm</a>
+                      <i class="icon-clock"></i><a href="contact-us.html">Mon - Sat: 8:00 am - 5:00 pm</a>
                     </li>
                   </ul>
                   <a href="#" class="btn btn__white btn__rounded btn__outlined">Contact Us</a>

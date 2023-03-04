@@ -3049,11 +3049,11 @@ input[type=radio] {
 
 .header-topbar .social-icons li a {
   color: #213360;
-  background-color: #7b0bc2;
+  background-color: #ffffff;
 }
 
 .header-topbar .social-icons li a:hover {
-  background-color: #ffffff;
+  background-color: #e97cff;
 }
 
 .header-topbar .header-topbar__search {

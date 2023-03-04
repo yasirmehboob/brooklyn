@@ -65,8 +65,8 @@
                   <p class="widget__desc">Please feel welcome to contact our friendly reception staff with any general
                     or medical enquiry call us.
                   </p>
-                  <a href="tel:+201061245741" class="phone__number">
-                    <i class="icon-phone"></i> <span>01061245741</span>
+                  <a href="tel:(051) 4949539" class="phone__number">
+                    <i class="icon-phone"></i> <span>(051) 4949539</span>
                   </a>
                 </div><!-- /.widget-content -->
               </div><!-- /.widget-help -->
@@ -75,20 +75,13 @@
                   <div class="widget__icon">
                     <i class="icon-charity2"></i>
                   </div>
-                  <h4 class="widget__title">Opening Hours</h4>
+                  <h4 class="widget__title">Working Hours</h4>
                   <ul class="time__list list-unstyled mb-0">
-                    <li><span>Monday - Friday</span><span>8.00 - 7:00 pm</span></li>
-                    <li><span>Saturday</span><span>9.00 - 10:00 pm</span></li>
-                    <li><span>Sunday</span><span>10.00 - 12:00 pm</span></li>
+                    <li><span>Monday - Saturday</span><span>8.00 am - 5:00 pm</span></li>
                   </ul>
                 </div><!-- /.widget-content -->
               </div><!-- /.widget-schedule -->
-              <div class="widget widget-reports">
-                <a href="#" class="btn btn__primary btn__block">
-                  <i class="icon-pdf-file"></i>
-                  <span>2020 Patient Reports</span>
-                </a>
-              </div>
+            
             </aside><!-- /.sidebar -->
           </div><!-- /.col-lg-4 -->
           <div class="col-sm-12 col-md-12 col-lg-8" id="accordion">

@@ -61,12 +61,12 @@
                   <div class="widget__icon">
                     <i class="icon-call3"></i>
                   </div>
-                  <h4 class="widget__title">Emergency Cases</h4>
-                  <p class="widget__desc">Please feel welcome to contact our friendly reception staff with any general
-                    or medical enquiry call us.
+                  <h4 class="widget__title">Emergency Case</h4>
+                  <p class="widget__desc">Please feel welcome to contact our friendly reception staff. With any general
+                   enquiry call us.
                   </p>
                   <a href="tel:(051) 4949539" class="phone__number">
-                    <i class="icon-phone"></i> <span>(051) 4949539</span>
+                    <i class="icon-phone"></i> <span>(051) 4949538-9</span>
                   </a>
                 </div><!-- /.widget-content -->
               </div><!-- /.widget-help -->
@@ -77,7 +77,7 @@
                   </div>
                   <h4 class="widget__title">Working Hours</h4>
                   <ul class="time__list list-unstyled mb-0">
-                    <li><span>Monday - Saturday</span><span>8.00 am - 5:00 pm</span></li>
+                    <li><span>Monday - Saturday</span><span>9.00 am - 4:30 pm</span></li>
                   </ul>
                 </div><!-- /.widget-content -->
               </div><!-- /.widget-schedule -->
@@ -91,8 +91,7 @@
               </div><!-- /.accordion-item-header -->
               <div id="collapse3" class="collapse show" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
+                  <p>Following Payment Methods are Available :<br>1. Credit / Debit Card<br>2. Easypaisa / JazzCash<br>3. Internet Banking</p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->

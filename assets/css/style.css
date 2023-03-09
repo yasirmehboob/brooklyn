@@ -1661,12 +1661,17 @@ h6 {
   padding: 0;
 }
 
+
 .btn__link.btn__primary {
-  color: #7b0bc2;
+  color:#7b0bc2 ;
+}
+
+.btn__link.btn__primary-style2 {
+  color:#ffffff;
 }
 
 .btn__link.btn__primary-style2:hover {
-  color: #ffffff !important;
+  color:#deabff !important;
 }
 
 .btn__link.btn__primary.btn__underlined {
@@ -4277,13 +4282,13 @@ input[type=radio] {
 .footer .footer-widget-nav li a {
   display: block;
   position: relative;
-  color: #848e9f;
+  color: #ffffff;
   font-size: 14px;
   margin-bottom: 11px;
 }
 
 .footer .footer-widget-nav li a:hover {
-  color: #7b0bc2;
+  color: #deabff;
 }
 
 .footer .footer__copyright-links li a {

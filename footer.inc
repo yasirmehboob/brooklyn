@@ -43,10 +43,10 @@
                   <li>If you have any questions or need help, feel free to contact with our team.</li>
                   <li>
                     <a href="tel:(051) 4949539" class="phone__number">
-                      <i class="icon-phone"></i> <span>(051) 4949539</span>
+                      <i class="icon-phone"></i> <span>(051) 4949538-9</span>
                     </a>
                   </li>
-                  <li class="color-body">Small Industries Estate, Taxila, District Rawalpindi .</li>
+                  <li class="color-body">Small Industries Estate,Taxila, District Rawalpindi - 46000 Pakistan .</li>
                 </ul>
                 <div class="d-flex align-items-center">
                   <a href="contact-us.php" class="btn btn__primary btn__link mr-30">

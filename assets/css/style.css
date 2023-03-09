@@ -6442,6 +6442,7 @@ input[type=radio] {
 .contact-panel__desc {
   font-size: 15px;
   line-height: 25px;
+  font-weight: 500;
 }
 
 textarea.form-control {
@@ -6483,6 +6484,7 @@ textarea.form-control {
 .contact-layout1 .contact-panel__info .contact__list li a,
 .contact-layout2 .contact-panel__info .contact__list li a {
   color: #ffffff;
+  font-weight: 500;
 }
 
 .contact-layout1 .contact-panel__info .contact__list li i,

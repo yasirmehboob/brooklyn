@@ -106,13 +106,13 @@
                 <div>
                   <ul class="contact__list list-unstyled mb-30">
                     <li>
-                      <i class="icon-phone"></i><a href="tel:(051) 4949539">Emergency Line: (051) 4949539</a>
+                      <i class="icon-phone"></i><a href="tel:(051) 4949539">Emergency Line : (051) 4949538-9</a>
                     </li>
                     <li>
-                      <i class="icon-location"></i><a href="#">Location: Plot # B-1 Small Industries Estate,Taxila, District Rawalpindi - 46000 Pakistan</a>
+                      <i class="icon-location"></i><a href="#">Location : Plot # B-1 Small Industries Estate,Taxila, District Rawalpindi.</a>
                     </li>
                     <li>
-                      <i class="icon-clock"></i><a href="contact-us.php">Mon - Sat: 9:00 am - 4:30 pm</a>
+                      <i class="icon-clock"></i><a href="contact-us.php">Mon - Sat : 9:00 am - 4:30 pm</a>
                     </li>
                   </ul>
                   <a href="#" class="btn btn__white btn__rounded btn__outlined">Contact Us</a>

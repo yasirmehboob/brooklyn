@@ -38,16 +38,7 @@
             <p class="pagetitle__desc">Medcity has been present in Europe since 1990, offering innovative
               solutions, specializing in medical services for treatment of medical infrastructure.
             </p>
-            <div class="d-flex flex-wrap align-items-center">
-              <a href="appointment.html" class="btn btn__primary btn__rounded mr-30">
-                <span>Find A Doctor</span>
-                <i class="icon-arrow-right"></i>
-              </a>
-              <a href="services.html" class="btn btn__white btn__rounded">
-                <span>Our Services</span>
-                <i class="icon-arrow-right"></i>
-              </a>
-            </div>
+           
           </div><!-- /.col-xl-5 -->
         </div><!-- /.row -->
       </div><!-- /.container -->
@@ -84,11 +75,7 @@
           <div class="col-sm-12 col-md-12 col-lg-6">
             <div class="video-banner">
               <img src="assets/images/about/1.jpg" alt="about">
-              <a class="video__btn video__btn-white popup-video" href="https://www.youtube.com/watch?v=nrJtHemSPW4">
-                <div class="video__player">
-                  <i class="fa fa-play"></i>
-                </div>
-              </a>
+             
             </div><!-- /.video-banner -->
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->

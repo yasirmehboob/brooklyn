@@ -34,7 +34,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5">
-            <h1 class="pagetitle__heading">Caring For The Health & Well Being Of Family.</h1>
+            <h1 class="pagetitle__heading">QUALITY, SAFETY & EFFICACY</h1>
             <p class="pagetitle__desc">Medcity has been present in Europe since 1990, offering innovative
               solutions, specializing in medical services for treatment of medical infrastructure.
             </p>

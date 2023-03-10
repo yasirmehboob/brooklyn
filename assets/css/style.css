@@ -91,7 +91,7 @@ a:hover {
 section {
   position: relative;
   padding-top: 110px;
-  padding-bottom: 110px;
+  padding-bottom: 50px;
 }
 
 img {
@@ -4206,7 +4206,7 @@ input[type=radio] {
 --------------------------*/
 
 .footer{
-    background-image: url("../images/backgrounds/footer-bg.png") !important;
+    background-image: url("../images/backgrounds/8.jpg") !important;
     background-repeat: no-repeat;
     background-size: cover;
 }

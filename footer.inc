@@ -17,9 +17,6 @@
             </div><!-- /.col-xl-2 -->
 
 
-      
-           
-            
             
             <div class="col-sm-12 col-md-6 col-lg-6">
               <div class="footer-widget-contact">

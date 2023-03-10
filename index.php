@@ -13,6 +13,15 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
   <link rel="stylesheet" href="assets/css/libraries.css">
   <link rel="stylesheet" href="assets/css/style.css">
+    <style type="text/css">
+    .heading-light .heading__title, .heading-light .heading__desc {
+            color: #474747;
+        }
+    
+    .list-items-light li {
+        color: #434343;
+    }    
+    </style>
 </head>
 
 <body>
@@ -166,8 +175,9 @@
     <!-- ========================
      Banner Layout 2
     =========================== -->
+      
+      
     <section class="banner-layout2 py-0" style="overflow: hidden;">
-      <div class="bg-img"><img src="assets/images/backgrounds/8.jpg" alt="backgrounds"></div>
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6">

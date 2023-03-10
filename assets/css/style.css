@@ -98,8 +98,8 @@ img {
   max-width: 40%;
 }
 .footer-widget-about img {
-  max-width: 87%;
-  margin-bottom: 30px !important;
+  max-width: 40%;
+  margin-bottom: 13px !important;
 }
 /*-------------------------
      RESET Default Styles
@@ -4208,6 +4208,7 @@ input[type=radio] {
 .footer{
     background-image: url("../images/backgrounds/footer-bg.png") !important;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .footer .footer-primary {
@@ -4362,7 +4363,7 @@ input[type=radio] {
 @media (min-width: 1200px) {
   .footer .footer-widget-nav,
   .footer .footer-widget-about {
-    margin-top: 40px;
+    margin-top: 10px;
   }
 }
 

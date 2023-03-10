@@ -230,13 +230,18 @@
         </div><!-- /.row -->
       </div><!-- /.container -->
     </section><!-- /.gallery 2 -->
-
-    <!-- footer Linked  -->
     
-    <?php
-     include('footer.inc');
-    ?>
+  <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button>
+  </div><!-- /.wrapper -->
 
+  <script src="assets/js/jquery-3.5.1.min.js"></script>
+  <script src="assets/js/plugins.js"></script>
+  <script src="assets/js/main.js"></script>   
+
+    <!-- End of Footer -->
+
+    <!-- Footer Linked -->
+    <?php include('footer.inc'); ?>
+    <!-- Footer Linked -->   
 </body>
-
 </html>

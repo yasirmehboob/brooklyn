@@ -259,7 +259,7 @@
     <!-- ========================
      Banner Layout 2
     =========================== -->
-    <section class="banner-layout2 py-0">
+    <section class="banner-layout2 py-0" style="overflow: hidden;">
       <div class="bg-img"><img src="assets/images/backgrounds/8.jpg" alt="backgrounds"></div>
       <div class="container">
         <div class="row">

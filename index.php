@@ -45,19 +45,7 @@
                   <p class="slide__desc color-white">The health and well-being of our patients and their health care
                     team will
                     always be our priority, so we follow the best practices for cleanliness.</p>
-                  <div class="d-flex flex-wrap justify-content-center align-items-center">
-                    <a href="about-us.php" class="btn btn__white btn__rounded mr-30">
-                      <span>More About Us</span>
-                      <i class="icon-arrow-right"></i>
-                    </a>
-                    <a class="video__btn video__btn-white popup-video"
-                      href="https://www.youtube.com/watch?v=nrJtHemSPW4">
-                      <div class="video__player">
-                        <i class="fa fa-play"></i>
-                      </div>
-                      <span class="video__btn-title color-white">Watch Our Video!</span>
-                    </a>
-                  </div>
+                  
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-7 -->
             </div><!-- /.row -->
@@ -73,19 +61,7 @@
                   <p class="slide__desc color-white">The health and well-being of our patients and their health care
                     team will
                     always be our priority, so we follow the best practices for cleanliness.</p>
-                  <div class="d-flex flex-wrap justify-content-center align-items-center">
-                    <a href="about-us.php" class="btn btn__white btn__rounded mr-30">
-                      <span>More About Us</span>
-                      <i class="icon-arrow-right"></i>
-                    </a>
-                    <a class="video__btn video__btn-white popup-video"
-                      href="https://www.youtube.com/watch?v=nrJtHemSPW4">
-                      <div class="video__player">
-                        <i class="fa fa-play"></i>
-                      </div>
-                      <span class="video__btn-title color-white">Watch Our Video!</span>
-                    </a>
-                  </div>
+                  
                 </div><!-- /.slide-content -->
               </div><!-- /.col-xl-7 -->
             </div><!-- /.row -->
@@ -99,151 +75,82 @@
     =========================== -->
     <section class="shop-grid">
       <div class="container">
+          
+          
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
             <div class="heading text-center mb-40">
-              <h2 class="heading__subtitle">Low Priced Medical Supplies</h2>
-              <h3 class="heading__title">The Largest Selections Of Medical Products</h3>
+              <h3 class="heading__title">FEATURED PRODUCTS</h3>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
+          
+          
         <div class="row">
-          <!-- Product item #1 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product__img">
-                <img src="assets/images/products/1.jpg" alt="Product" loading="lazy">
-                <div class="product__action">
-                  <a href="#" class="btn btn__primary btn__rounded">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product__info">
-                <h4 class="product__title"><a href="#">Calming Herps</a></h4>
-                <span class="product__price">$18.99</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #2 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product__img">
-                <img src="assets/images/products/2.jpg" alt="Product" loading="lazy">
-                <div class="product__action">
-                  <a href="#" class="btn btn__primary btn__rounded">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product__info">
-                <h4 class="product__title"><a href="#">Biotin Complex</a></h4>
-                <span class="product__price">$12,99</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #3 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product__img">
-                <img src="assets/images/products/3.jpg" alt="Product" loading="lazy">
-                <div class="product__action">
-                  <a href="#" class="btn btn__primary btn__rounded">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product__info">
-                <h4 class="product__title"><a href="#">Facial Serum</a></h4>
-                <span class="product__price">$19,99</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #4 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product__img">
-                <img src="assets/images/products/4.jpg" alt="Product" loading="lazy">
-                <div class="product__action">
-                  <a href="#" class="btn btn__primary btn__rounded">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product__info">
-                <h4 class="product__title"><a href="#">Calming Herps</a></h4>
-                <span class="product__price">$33.00</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #5 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product__img">
-                <img src="assets/images/products/5.jpg" alt="Product" loading="lazy">
-                <div class="product__action">
-                  <a href="#" class="btn btn__primary btn__rounded">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product__info">
-                <h4 class="product__title"><a href="#">Essential Oil</a></h4>
-                <span class="product__price">$63.00</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #6 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product__img">
-                <img src="assets/images/products/6.jpg" alt="Product" loading="lazy">
-                <div class="product__action">
-                  <a href="#" class="btn btn__primary btn__rounded">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product__info">
-                <h4 class="product__title"><a href="#">Natural Cacao Powder</a></h4>
-                <span class="product__price">$12,99</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #7 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product__img">
-                <img src="assets/images/products/7.jpg" alt="Product" loading="lazy">
-                <div class="product__action">
-                  <a href="#" class="btn btn__primary btn__rounded">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product__info">
-                <h4 class="product__title"><a href="#">Natural Gel</a></h4>
-                <span class="product__price">$38,00</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
-          <!-- Product item #8 -->
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="product-item">
-              <div class="product__img">
-                <img src="assets/images/products/8.jpg" alt="Product" loading="lazy">
-                <div class="product__action">
-                  <a href="#" class="btn btn__primary btn__rounded">
-                    <i class="icon-cart"></i> <span>Add To Cart</span>
-                  </a>
-                </div><!-- /.product-action -->
-              </div><!-- /.product-img -->
-              <div class="product__info">
-                <h4 class="product__title"><a href="#">Goji Powder</a></h4>
-                <span class="product__price">$16,00</span>
-              </div><!-- /.product-content -->
-            </div><!-- /.product-item -->
-          </div><!-- /.col-lg-3 -->
+            
+            <!-- Product item #1 -->
+              <div class="col-sm-6 col-md-3 col-lg-4">
+                <div class="product-item">
+                  <div class="product__img">
+                    <img src="assets/images/products/1.jpeg" alt="Product" loading="lazy">
+                    <div class="product__action">
+                      <a href="#" class="btn btn__primary btn__rounded">
+                        <i class="icon-cart"></i> <span>Add To Cart</span>
+                      </a>
+                    </div><!-- /.product-action -->
+                  </div><!-- /.product-img -->
+                  <div class="product__info">
+                    <h4 class="product__title"><a href="#">IMFIT</a></h4>
+                      <p>B Vitamins (B1,B2, B3, B5, B6 B12)</p>
+                    <span class="product__price">Rs.238.00/-</span>
+                  </div><!-- /.product-content -->
+                </div><!-- /.product-item -->
+              </div><!-- /.col-lg-4 -->  
+           
+            
+            
+             <!-- Product item #1 -->
+              <div class="col-sm-6 col-md-3 col-lg-4">
+                <div class="product-item">
+                  <div class="product__img">
+                    <img src="assets/images/products/1.jpeg" alt="Product" loading="lazy">
+                    <div class="product__action">
+                      <a href="#" class="btn btn__primary btn__rounded">
+                        <i class="icon-cart"></i> <span>Add To Cart</span>
+                      </a>
+                    </div><!-- /.product-action -->
+                  </div><!-- /.product-img -->
+                  <div class="product__info">
+                    <h4 class="product__title"><a href="#">IMFIT</a></h4>
+                      <p>B Vitamins (B1,B2, B3, B5, B6 B12)</p>
+                    <span class="product__price">Rs.238.00/-</span>
+                  </div><!-- /.product-content -->
+                </div><!-- /.product-item -->
+              </div><!-- /.col-lg-4 -->  
+            
+            
+            
+             <!-- Product item #1 -->
+              <div class="col-sm-6 col-md-3 col-lg-4">
+                <div class="product-item">
+                  <div class="product__img">
+                    <img src="assets/images/products/1.jpeg" alt="Product" loading="lazy">
+                    <div class="product__action">
+                      <a href="#" class="btn btn__primary btn__rounded">
+                        <i class="icon-cart"></i> <span>Add To Cart</span>
+                      </a>
+                    </div><!-- /.product-action -->
+                  </div><!-- /.product-img -->
+                  <div class="product__info">
+                    <h4 class="product__title"><a href="#">IMFIT</a></h4>
+                      <p>B Vitamins (B1,B2, B3, B5, B6 B12)</p>
+                    <span class="product__price">Rs.238.00/-</span>
+                  </div><!-- /.product-content -->
+                </div><!-- /.product-item -->
+              </div><!-- /.col-lg-4 -->  
+            
+            
+            
         </div><!-- /.row -->
         <div class="row">
           <div class="col-12 text-center">
@@ -297,6 +204,7 @@
       </div><!-- /.container -->
     </section><!-- /.Banner Layout 2 -->
 
+      <br><br><br>
     
       
   <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button>

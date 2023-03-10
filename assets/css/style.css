@@ -95,7 +95,7 @@ section {
 }
 
 img {
-  max-width: 40%;
+  max-width: 100%;
 }
 .footer-widget-about img {
   max-width: 40%;
@@ -8182,6 +8182,7 @@ textarea.form-control {
     Shop
 --------------------------*/
 .product-item {
+  border: 1px solid #e8e8e8;
   position: relative;
   text-align: center;
   border-radius: 6px;
@@ -8201,7 +8202,12 @@ textarea.form-control {
 }
 
 .product-item .product__info {
-  padding: 28px 0;
+  padding: 10px 0;
+}
+
+.product__info p{
+  margin-bottom: 1px;
+  font-size:0.8em;
 }
 
 .product-item:hover {
@@ -8216,7 +8222,7 @@ textarea.form-control {
 
 .product__title {
   font-size: 21px;
-  margin-bottom: 8px;
+  margin-bottom: 1px;
 }
 
 .product__title a {
@@ -8246,7 +8252,7 @@ textarea.form-control {
 /* Shop Single */
 .product-item-single .product__title {
   font-size: 29px;
-  margin-bottom: 15px;
+  margin-bottom: 1px;
 }
 
 .product-item-single .product__rating {

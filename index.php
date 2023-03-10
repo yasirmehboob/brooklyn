@@ -266,10 +266,8 @@
           <div class="col-sm-12 col-md-12 col-lg-6">
             <div class="banner-text">
               <div class="heading-layout2 heading-light">
-                <h2 class="heading__title">Committed To Build A Positive, Safe, Patient Focused Culture.</h2>
-                <p class="heading__desc mb-40">Today the hospital is recognised as a world renowned institution, not
-                  only providing outstanding care and treatment, our goal is to deliver quality care in a respectful &
-                  compassionate manner. We strive to be the first and best choice for healthcare.
+                <h2 class="heading__title">WE ARE BACKED BY SCIENCE</h2>
+                <p class="heading__desc mb-40">Our carefully curated formulations are prepared in controlled environment under strict supervision of our healthcare experts.
                 </p>
               </div>
               <ul class="list-items list-items-layout2 list-items-light list-horizontal list-unstyled mb-50">
@@ -280,19 +278,20 @@
                 <li>Desensitisation injections</li>
               </ul>
               <div class="d-flex flex-wrap">
-                <a href="doctors-timetable.html" class="btn btn__white btn__rounded mr-30">
-                  <span>Find A Doctor</span> <i class="icon-arrow-right"></i>
+                <a href="about-us.php" class="btn btn__white btn__rounded mr-30">
+                  <span>About Brooklyn</span> <i class="icon-arrow-right"></i>
                 </a>
-                <a href="contact-us.php" class="btn btn__white btn__outlined btn__rounded">
-                  Contact us
+                <a href="distribution.php" class="btn btn__white btn__outlined btn__rounded">
+                  Distributions
                 </a>
               </div>
             </div><!-- /.banner-text -->
           </div><!-- /.col-lg-6 -->
-          <div class="col-sm-12 col-md-12 col-lg-6 banner-img">
-            <div class="bg-img">
-              <img src="assets/images/banners/9.jpg" alt="backgrounds">
-            </div>
+          <div class="col-sm-12 col-md-12 col-lg-6 banner-img" style="background-image: url(assets/images/clipart.png);
+    background-size: contain !important;
+    background-position: center center;
+    background-repeat: no-repeat !important;">
+            
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
       </div><!-- /.container -->

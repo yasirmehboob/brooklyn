@@ -10,7 +10,7 @@
                 <img src="assets/images/logo/logo-light.png" alt="logo" class="mb-30">
                 <p class="color-gray" style="text-align: justify;">Our passion is to strive hard to manufacture & export world class Nutraceutical products in compliance with cGMP standards. We are committed to provide quality life to our country fellows by delivering them the most reliable and affordable access to export quality Nutraceutical products. We are dedicated to create motivating, unbiased working environment for our employees.
                 </p>
-                <a href="products.php" class="btn btn__primary btn__primary-style2 btn__link">
+                <a href="about-us.php" class="btn btn__primary btn__primary-style2 btn__link">
                   <span>Read More</span> <i class="icon-arrow-right"></i>
                 </a>
               </div><!-- /.footer-widget__content -->
@@ -43,7 +43,7 @@
                   </a>
                   <ul class="social-icons list-unstyled mb-0" style="margin-left: 38%;">
                     <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>
                     <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                   </ul><!-- /.social-icons -->
                 </div>

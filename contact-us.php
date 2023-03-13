@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <meta name="description" content="Brooklyn Pharmaceuticals">
-  <title>Brooklyn Pharmaceuticals</title>
+  <title>Contact us | Brooklyn Pharmaceuticals</title>
   <link rel="shortcut icon" href="assets\images\favicon\favicon.png" type="image/x-icon">
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
@@ -37,7 +37,7 @@
     <!-- ==========================
         contact layout 1
     =========================== -->
-    <section class="contact-layout1 pt-0 mt--100">
+    <section class="contact-layout1 pt-0 mt--100" style="padding-bottom: 100px;">
       <div class="container">
         <div class="row">
           <div class="col-12">
@@ -124,112 +124,7 @@
       </div><!-- /.container -->
     </section><!-- /.contact layout 1 -->
 
-    <!-- ========================= 
-      Testimonials layout 2
-      =========================  -->
-    <section class="testimonials-layout2 pt-40 pb-40">
-      <div class="container">
-        <div class="testimonials-wrapper">
-          <div class="row">
-            <div class="col-sm-12 col-md-12 col-lg-5">
-              <div class="heading-layout2">
-                <h3 class="heading__title">Inspiring Stories!</h3>
-              </div><!-- /.heading -->
-            </div><!-- /.col-lg-5 -->
-            <div class="col-sm-12 col-md-12 col-lg-7">
-              <div class="slider-with-navs">
-                <!-- Testimonial #1 -->
-                <div class="testimonial-item">
-                  <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who come from a
-                    range of backgrounds and bring with them a diversity of skills and special interests. They also have
-                    registered nurses on staff who are available to triage any urgent matters, and the administration
-                    and support staff all have exceptional people skills”
-                  </h3>
-                </div><!-- /. testimonial-item -->
-                <!-- Testimonial #2 -->
-                <div class="testimonial-item">
-                  <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who come from a
-                    range of backgrounds and bring with them a diversity of skills and special interests. They also have
-                    registered nurses on staff who are available to triage any urgent matters, and the administration
-                    and support staff all have exceptional people skills”
-                  </h3>
-                </div><!-- /. testimonial-item -->
-                <!-- Testimonial #3 -->
-                <div class="testimonial-item">
-                  <h3 class="testimonial__title">“Their doctors include highly qualified practitioners who come from a
-                    range of backgrounds and bring with them a diversity of skills and special interests. They also have
-                    registered nurses on staff who are available to triage any urgent matters, and the administration
-                    and support staff all have exceptional people skills”
-                  </h3>
-                </div><!-- /. testimonial-item -->
-              </div><!-- /.slick-carousel -->
-              <div class="slider-nav mb-60">
-                <div class="testimonial__meta">
-                  <div class="testimonial__thmb">
-                    <img src="assets/images/testimonials/thumbs/1.png" alt="author thumb">
-                  </div><!-- /.testimonial-thumb -->
-                  <div>
-                    <h4 class="testimonial__meta-title">Sami Wade</h4>
-                    <p class="testimonial__meta-desc">7oroof Inc</p>
-                  </div>
-                </div><!-- /.testimonial-meta -->
-                <div class="testimonial__meta">
-                  <div class="testimonial__thmb">
-                    <img src="assets/images/testimonials/thumbs/2.png" alt="author thumb">
-                  </div><!-- /.testimonial-thumb -->
-                  <div>
-                    <h4 class="testimonial__meta-title">Ahmed</h4>
-                    <p class="testimonial__meta-desc">Web Inc</p>
-                  </div>
-                </div><!-- /.testimonial-meta -->
-                <div class="testimonial__meta">
-                  <div class="testimonial__thmb">
-                    <img src="assets/images/testimonials/thumbs/3.png" alt="author thumb">
-                  </div><!-- /.testimonial-thumb -->
-                  <div>
-                    <h4 class="testimonial__meta-title">Sonia Blake</h4>
-                    <p class="testimonial__meta-desc">Web Inc</p>
-                  </div>
-                </div><!-- /.testimonial-meta -->
-              </div><!-- /.slider-nav -->
-            </div><!-- /.col-lg-7 -->
-          </div><!-- /.row -->
-        </div><!-- /.testimonials-wrapper -->
-      </div><!-- /.container -->
-    </section><!-- /.testimonials layout 2 -->
-
-    <!-- ========================
-     gallery
-    =========================== -->
-    <section class="gallery pt-0 pb-90">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="slick-carousel"
-              data-slick='{"slidesToShow": 4, "slidesToScroll": 1, "autoplay": true, "arrows": true, "dots": false, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 2}}, {"breakpoint": 767, "settings": {"slidesToShow": 2}}, {"breakpoint": 480, "settings": {"slidesToShow": 1}}]}'>
-              <a class="popup-gallery-item" href="assets/images/gallery/1.jpg">
-                <img src="assets/images/gallery/1.jpg" alt="gallery img">
-              </a>
-              <a class="popup-gallery-item" href="assets/images/gallery/2.jpg">
-                <img src="assets/images/gallery/2.jpg" alt="gallery img">
-              </a>
-              <a class="popup-gallery-item" href="assets/images/gallery/3.jpg">
-                <img src="assets/images/gallery/3.jpg" alt="gallery img">
-              </a>
-              <a class="popup-gallery-item" href="assets/images/gallery/4.jpg">
-                <img src="assets/images/gallery/4.jpg" alt="gallery img">
-              </a>
-              <a class="popup-gallery-item" href="assets/images/gallery/5.jpg">
-                <img src="assets/images/gallery/5.jpg" alt="gallery img">
-              </a>
-              <a class="popup-gallery-item" href="assets/images/gallery/6.jpg">
-                <img src="assets/images/gallery/6.jpg" alt="gallery img">
-              </a>
-            </div><!-- /.gallery-images-wrapper -->
-          </div><!-- /.col-xl-5 -->
-        </div><!-- /.row -->
-      </div><!-- /.container -->
-    </section><!-- /.gallery 2 -->
+      
     
   <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button>
   </div><!-- /.wrapper -->

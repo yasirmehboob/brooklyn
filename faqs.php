@@ -37,8 +37,8 @@
             <h1 class="pagetitle__heading my-3">FAQs</h1>
             <nav>
               <ol class="breadcrumb my-3">
-                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                <li class="breadcrumb-item"><a href="about-us.html">About</a></li>
+                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                <li class="breadcrumb-item"><a href="about-us.php">About</a></li>
                 <li class="breadcrumb-item active" aria-current="page">FAQs</li>
               </ol>
             </nav>
@@ -61,7 +61,7 @@
                   <div class="widget__icon">
                     <i class="icon-call3"></i>
                   </div>
-                  <h4 class="widget__title">Emergency Case</h4>
+                  <h4 class="widget__title">For Support</h4>
                   <p class="widget__desc">Please feel welcome to contact our friendly reception staff. With any general
                    enquiry call us.
                   </p>
@@ -91,7 +91,7 @@
               </div><!-- /.accordion-item-header -->
               <div id="collapse3" class="collapse show" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>Following Payment Methods are Available :<br>1. Credit / Debit Card<br>2. Easypaisa / JazzCash<br>3. Internet Banking</p>
+                  <p>Following Payment Methods are Available :<br>1. Credit / Debit Card<br>2. Easypaisa / JazzCash<br>3. Internet Banking<br>4. Cash on Delivery</p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->

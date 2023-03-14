@@ -33,7 +33,7 @@
                   
                   
                   <li class="color-body">
-                    <h6 style="margin-bottom: 0px !important;padding-bottom: 0px;">Factory Address : </h6>
+                    <h6 style="margin-bottom: 0px !important;padding-bottom: 0px;">Health Care Division : </h6>
                     Small Industries Estate,Taxila, District Rawalpindi - 46000 Pakistan .
                   </li>
                 </ul>

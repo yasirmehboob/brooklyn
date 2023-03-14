@@ -54,7 +54,7 @@
           </li><!-- /.nav-item -->
           
           <li class="nav__item">
-            <a href="about-us.php"  class="nav__item-link">About Us</a>
+            <a href="about-us.php"  class="nav__item-link ">About Us</a>
           </li><!-- /.nav-item -->
 
 

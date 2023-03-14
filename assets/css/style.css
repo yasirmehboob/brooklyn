@@ -1618,7 +1618,7 @@ h6 {
 }
 
 .btn__white.btn__outlined {
-  color: #ffffff;
+  color: #213360;
   background-color: transparent;
   border: 2px solid #ffffff;
 }
@@ -4767,6 +4767,7 @@ input[type=radio] {
 
 .video-banner img {
   border-radius: 15px;
+  margin-bottom: 120px;
 }
 
 .video-banner .video__btn {

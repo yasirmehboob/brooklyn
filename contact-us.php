@@ -31,7 +31,7 @@
     =========================  -->
     <section class="google-map py-0">
       <iframe frameborder="0" height="500" width="100%"
-        src="https://maps.google.com/maps?q=Suite%20100%20San%20Francisco%2C%20LA%2094107%20United%20States&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near"></iframe>
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.2540971635262!2d72.71661441110538!3d33.75409917315919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38dfa7dbc868891f%3A0x288efc6001cc7d1f!2sBROOKLYN%20PHARMACEUTICALS%20(HEALTH%20CARE%20DIVISION)!5e0!3m2!1sen!2s!4v1678891217885!5m2!1sen!2s"></iframe>
     </section><!-- /.GoogleMap -->
 
     <!-- ==========================

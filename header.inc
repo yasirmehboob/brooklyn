@@ -10,10 +10,10 @@
           <div class="d-flex align-items-center justify-content-between">
             <ul class="contact__list d-flex flex-wrap align-items-center list-unstyled mb-0">
               <li>
-                <i class="icon-phone"></i><a href="tel:+5565454117">Emergency Line: (051) 4949538-9</a>
+                <i class="icon-phone"></i><a href="tel:+5565454117">Emergency Line : (051) 4949538-9</a>
               </li>
               <li>
-                <i class="icon-location"></i><a href="contact-us.php">Location: Brooklyn Pharmaceuticals, Taxila Rawalpindi</a>
+                <i class="icon-location"></i><a href="contact-us.php">Location : Brooklyn Pharmaceuticals, Taxila Rawalpindi</a>
               </li>
               <li>
                 <i class="icon-clock"></i><a href="contact-us.php">Mon - Sat : 9:00 am - 4:30 pm</a>

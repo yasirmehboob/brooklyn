@@ -1618,7 +1618,7 @@ h6 {
 }
 
 .btn__white.btn__outlined {
-  color: #213360;
+  color: #ffffff;
   background-color: transparent;
   border: 2px solid #ffffff;
 }
@@ -3044,7 +3044,7 @@ input[type=radio] {
 
 .header-topbar .contact__list li > i {
   font-size: 16px;
-  color: #deabff;
+  color: #ffffff;
   margin-right: 8px;
 }
 

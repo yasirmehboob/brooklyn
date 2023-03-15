@@ -188,11 +188,11 @@
                 </p>
               </div>
               <ul class="list-items list-items-layout2 list-items-light list-horizontal list-unstyled mb-50">
-                <li>Fractures and dislocations</li>
-                <li>Health Assessments</li>
-                <li>Desensitisation injections</li>
-                <li>High Quality Care</li>
-                <li>Desensitisation injections</li>
+                <li>Research And Development </li>
+                <li>Care Oriented System</li>
+                <li>Quality Management System</li>
+                <li>Innovative Technology</li>
+                <li>Efficacious Products</li>
               </ul>
               <div class="d-flex flex-wrap">
                 <a href="about-us.php" class="btn btn__white btn__rounded mr-30">

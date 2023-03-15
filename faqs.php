@@ -108,12 +108,11 @@
             </div><!-- /.accordion-item -->
             <div class="accordion-item">
               <div class="accordion__header" data-toggle="collapse" data-target="#collapse2">
-                <a class="accordion__title" href="#">Do I have to commit to a contract?</a>
+                <a class="accordion__title" href="#">Is Consultation freely Available?</a>
               </div><!-- /.accordion-item-header -->
               <div id="collapse2" class="collapse" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
+                  <p>Yes ! Consultation is freely Available , You can Contact on the Given Numbers or leave a message on Whatsapp</p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->
@@ -141,12 +140,13 @@
             </div><!-- /.accordion-item -->
             <div class="accordion-item">
               <div class="accordion__header" data-toggle="collapse" data-target="#collapse4">
-                <a class="accordion__title" href="#">What if I pick the wrong plan?</a>
+                <a class="accordion__title" href="#">What if I pick the wrong product?</a>
               </div><!-- /.accordion-item-header -->
               <div id="collapse4" class="collapse" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
+                  <p>If you picked the wrong product just Contact the Support for Further Assistance.
+                    It is appreciated to Contact us if you are doubted about anything.
+                  </p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->

@@ -960,7 +960,7 @@ textarea {
 }
 
 .color-primary {
-  color: #7b0bc2 !important;
+  color: #e1b2ff !important;
 }
 
 .color-secondary {
@@ -1121,7 +1121,7 @@ h6 {
 
 .heading__subtitle {
   font-family: "Roboto", sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   color: #435ba1;
   margin-bottom: 12px;
 }
@@ -1136,7 +1136,7 @@ h6 {
 }
 
 .heading__desc {
-  font-size: 16px;
+  font-size: 17px;
   margin-bottom: 0;
 }
 

@@ -237,26 +237,21 @@
       <div class="container">
         <div class="row heading-layout2">
           <div class="col-12">
-            <h2 class="heading__subtitle color-primary">Caring For The Health Of You And Your Family.</h2>
+            <h3 class="heading__subtitle color-primary">CEO's Message </h3>
           </div><!-- /.col-12 -->
           <div class="col-sm-12 col-md-12 col-lg-6 col-xl-5">
-            <h3 class="heading__title color-white">We Provide All Aspects Of Medical Practice For Your Whole Family!
+            <h3 class="heading__title color-white">And When I am Sick, <br>It is He who Cures Me !
             </h3>
+            <div class="col-12">
+            <h2 class="heading__subtitle color-primary">(Surah Ash-shu'ara, verse 80)</h2>
+          </div><!-- /.col-12 -->
           </div><!-- /.col-xl-5 -->
           <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 offset-xl-1">
-            <p class="heading__desc font-weight-bold color-gray mb-40">We will work with you to develop individualised
-              care
-              plans, including
-              management of chronic diseases. If we cannot assist, we can provide referrals or advice about the type of
-              practitioner you require. We treat all enquiries sensitively and in the strictest confidence.
+            <p class="heading__desc font-weight-bold color-gray mb-40" >Almighty can bestow health to diseased ones through medicines. Our aim at Brooklyn pharmaceuticals is to provide world class quality products to every citizen at economical price. We never dream to have palaces or huge bank balance but committed to provide honest means of earning to youth of the country so that they can use their energies in a positive way. Fundamental teachings of Silsila Aalia Qadria Chishtia focus on respect and equality for each and every human being of the world, so that peace and harmony can prosper everywhere. We should be more tolerant, affectionate to everyone so that we can present ourselves a best character nation among all, and play our role in helping others particularly our beloved motherland “Pakistan” to become a developed country.
             </p>
-            <ul class="list-items list-items-layout2 list-items-light list-horizontal list-unstyled">
-              <li>Fractures and dislocations</li>
-              <li>Health Assessments</li>
-              <li>Desensitisation injections</li>
-              <li>High Quality Care</li>
-              <li>Desensitisation injections</li>
-            </ul>
+            <div class="col-12">
+            <h3 class="heading__subtitle color-primary">Mr. Sufi Mohammad Ishaq Shah</h3>
+          </div><!-- /.col-12 -->
           </div><!-- /.col-xl-6 -->
         </div><!-- /.row -->
         <div class="row">

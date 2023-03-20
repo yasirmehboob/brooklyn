@@ -75,9 +75,9 @@
                     <div class="form-group">
                       <i class="icon-news form-group-icon"></i>
                       <select class="form-control">
-                        <option value="0">Subject</option>
-                        <option value="1">Subject 1</option>
-                        <option value="2">Subject 1</option>
+                        <option value="0">Product Information</option>
+                        <option value="1">Consultation</option>
+                        <option value="2">Others</option>
                       </select>
                     </div>
                   </div><!-- /.col-lg-6 -->

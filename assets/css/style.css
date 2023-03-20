@@ -1121,13 +1121,13 @@ h6 {
 
 .heading__subtitle {
   font-family: "Roboto", sans-serif;
-  font-size: 17px;
+  font-size: 19px;
   color: #435ba1;
-  margin-bottom: 12px;
+  margin-bottom: 47px;
 }
 
 .heading__title {
-  font-size: 37px;
+  font-size: 39px;
   margin-bottom: 20px;
 }
 
@@ -1618,7 +1618,7 @@ h6 {
 }
 
 .btn__white.btn__outlined {
-  color: #ffffff;
+  color: #213360;
   background-color: transparent;
   border: 2px solid #ffffff;
 }

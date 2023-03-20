@@ -61,7 +61,7 @@
             <div class="about__Text">
               <p class="mb-30">Our Vision is to be the leading and most trusted excellent quality Nutraceutical Company by delivering safe and effective health supplements to people across the globe.
               </p>
-              <p class="mb-30">BROOKLYN PHARMACEUTICALS started its business as Nutraceutical Importer since 2010. BROOKLYN PHARMACEUTICALS imports a range of absolutely world class Nutraceutical products which include variety of natural herb, vitamin, and mineral combination products from one of the best international Nutraceutical manufacturing company situated at USA.</p>
+              <p class="mb-30">Brooklyn Pharmaceuticals started its business as Nutraceutical Importer since 2010. Brooklyn Pharmaceuticals imports a range of absolutely world class Nutraceutical products which include variety of natural herb, vitamin, and mineral combination products from one of the best international Nutraceutical manufacturing company situated at USA.</p>
                 <p class="mb-30">Now Brooklyn Pharmaceuticals has established its own manufacturing facility to produce world class Nutraceutical products according to International Quality standards.</p>
             </div>
           </div><!-- /.col-lg-6 -->
@@ -88,7 +88,7 @@
             </div>
           </div><!-- /col-lg-5 -->
           <div class="col-sm-12 col-md-12 col-lg-6">
-            <p class="heading__desc font-weight-bold">Our passion is to strive hard to manufacture & export world class Nutraceutical products in compliance with cGMP standards. We are committed to provide quality life to our country fellows by providing them the most reliable and affordable access to export quality Nutraceutical products. We are dedicated to create motivating, unbiased working environment for our employees.
+            <p class="heading__desc font-weight-bold">Our passion is to strive hard to manufacture and export world class Nutraceutical products in compliance with cGMP standards. We are committed to provide quality life to our country fellows by providing them the most reliable and affordable access to export quality Nutraceutical products. We are dedicated to create motivating, unbiased working environment for our employees.
             </p>
             
           </div><!-- /.col-lg-6 -->
@@ -218,7 +218,7 @@
         <div class="row">
           <div class="col-md-12 col-lg-6 offset-lg-3 text-center">
             <p class="font-weight-bold mb-0">Serve the community by improving the quality of life through better health.
-              We have put protocols to protect our customers and staff while continuing to provide medically necessary
+              We have put protocols to protect our customers and staff while continuing to provide Necessary
               care.
               <a href="contact-us.php" class="color-secondary">
                 <span>Contact Us For More Information</span> <i class="icon-arrow-right"></i>
@@ -259,13 +259,13 @@
             <div class="carousel-container mt-90">
               <div class="slick-carousel"
                 data-slick='{"slidesToShow": 4, "slidesToScroll": 1, "infinite":false, "arrows": false, "dots": false, "responsive": [{"breakpoint": 1200, "settings": {"slidesToShow": 3}}, {"breakpoint": 992, "settings": {"slidesToShow": 2}}, {"breakpoint": 767, "settings": {"slidesToShow": 2}}, {"breakpoint": 480, "settings": {"slidesToShow": 1}}]}'>
-                <!-- process item #1 -->
-                <div class="process-item">
+                <!-- ----------------------------------- process item #1-------------------------------------------- -->
+                <!-- <div class="process-item">
                   <span class="process__number">01</span>
                   <div class="process__icon">
                     <i class="icon-health-report"></i>
-                  </div><!-- /.process__icon -->
-                  <h4 class="process__title">Fill In Our Medical Application</h4>
+                  </div>/.process__icon -->
+                  <!-- <h4 class="process__title">Halal Products</h4>
                   <p class="process__desc">Medcity offers low-cost health coverage for adults with limited income, you
                     can
                     enroll.</p>
@@ -273,28 +273,28 @@
                     <span>Doctors’ Timetable</span>
                     <i class="icon-arrow-right"></i>
                   </a>
-                </div><!-- /.process-item -->
-                <!-- process-item #2 -->
-                <div class="process-item">
+                </div>/.process-item -->
+                <!-- -----------------------------------------process-item #2---------------------------------- -->
+                <!-- <div class="process-item">
                   <span class="process__number">02</span>
                   <div class="process__icon">
                     <i class="icon-dna"></i>
-                  </div><!-- /.process__icon -->
-                  <h4 class="process__title">Review Your Family Medical History</h4>
+                  </div>/.process__icon -->
+                  <!-- <h4 class="process__title">Drap Registered</h4>
                   <p class="process__desc">Regular health exams can help find all the problems, also can find it early
                     chances.</p>
                   <a href="#" class="btn btn__secondary btn__link">
                     <span>Start A Check Up</span>
                     <i class="icon-arrow-right"></i>
                   </a>
-                </div><!-- /.process-item -->
-                <!-- process-item #3 -->
-                <div class="process-item">
+                </div>/.process-item -->
+                <!-- -------------------------------process-item #3----------------------------------- -->
+                <!-- <div class="process-item">
                   <span class="process__number">03</span>
                   <div class="process__icon">
                     <i class="icon-medicine"></i>
-                  </div><!-- /.process__icon -->
-                  <h4 class="process__title">Choose Between Our Care Programs</h4>
+                  </div>/.process__icon -->
+                  <!-- <h4 class="process__title">Choose Between Our Care Programs</h4>
                   <p class="process__desc">We have protocols to protect our patients while continuing to provide
                     necessary
                     care.</p>
@@ -302,35 +302,37 @@
                     <span>Explore Programs</span>
                     <i class="icon-arrow-right"></i>
                   </a>
-                </div><!-- /.process-item -->
-                <!-- process-item #4 -->
-                <div class="process-item">
+                </div>/.process-item -->
+                <!----------------------------- process-item #4---------------------------------------- -->
+                <!-- <div class="process-item">
                   <span class="process__number">04</span>
                   <div class="process__icon">
                     <i class="icon-stethoscope"></i>
-                  </div><!-- /.process__icon -->
-                  <h4 class="process__title">Introduce You To Highly Qualified Doctors</h4>
+                  </div>/.process__icon -->
+                  <!-- <h4 class="process__title">Introduce You To Highly Qualified Doctors</h4>
                   <p class="process__desc">Our administration and support staff have exceptional skills and trained to
                     assist you. </p>
                   <a href="#" class="btn btn__secondary btn__link">
                     <span>Meet Our Doctors</span>
                     <i class="icon-arrow-right"></i>
                   </a>
-                </div><!-- /.process-item -->
-                <!-- process-item #5 -->
-                <div class="process-item">
+                </div>/.process-item -->
+                <!-- --------------------------------process-item #5-------------------------------------- -->
+
+                <!-- <div class="process-item">
                   <span class="process__number">05</span>
                   <div class="process__icon">
                     <i class="icon-head"></i>
-                  </div><!-- /.process__icon -->
-                  <h4 class="process__title">Your custom Next process</h4>
+                  </div>/.process__icon -->
+
+                  <!-- <h4 class="process__title">Your custom Next process</h4>
                   <p class="process__desc">Our administration and support staff have exceptional skills to assist you.
                   </p>
                   <a href="#" class="btn btn__secondary btn__link">
                     <span>Meet Our Doctors</span>
                     <i class="icon-arrow-right"></i>
-                  </a>
-                </div><!-- /.process-item -->
+                  </a> -->
+                <!-- </div>/.process-item -->
               </div><!-- /.carousel -->
             </div>
           </div><!-- /.col-12 -->
@@ -340,13 +342,13 @@
         <div class="container">
           <div class="row align-items-center">
             <div class="col-sm-12 col-md-2 col-lg-2">
-              <img src="assets/images/icons/alert.png" alt="alert">
+              <!-- <img src="assets/images/icons/alert.png" alt="alert"> -->
             </div><!-- /.col-lg-2 -->
             <div class="col-sm-12 col-md-7 col-lg-7">
-              <h4 class="cta__title">True Healthcare For Your Family!</h4>
+              <!-- <h4 class="cta__title">True Healthcare For Your Family!</h4>
               <p class="cta__desc">Serve the community by improving the quality of life through better health. We have
                 put protocols to protect our patients and staff while continuing to provide medically necessary care.
-              </p>
+              </p> -->
             </div><!-- /.col-lg-7 -->
             <!-- <div class="col-sm-12 col-md-3 col-lg-3">
               <a href="appointment.html" class="btn btn__secondary btn__secondary-style2 btn__rounded mr-30">

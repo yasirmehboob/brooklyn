@@ -33,7 +33,7 @@
                   
                   
                   <li class="color-body">
-                    <h6 style="margin-bottom: 0px !important;padding-bottom: 0px;">Health Care Division : </h6>
+                    <h6 style="margin-bottom: 0px !important;padding-bottom: 0px;">Brooklyn Pharmaceuticals : </h6>
                     Small Industries Estate,Taxila, District Rawalpindi - 46000 Pakistan .
                   </li>
                 </ul>
@@ -83,7 +83,7 @@
               <span class="fz-14">&copy; 2020 Brooklyn Pharmaceuticals, All Rights Reserved. With Love by</span>
               <a class="fz-14 color-primary" href="www.bigbookcloud.com" target="new">Bigbookcloud.com</a>
             </div><!-- /.col-lg-6 -->
-            <div class="col-sm-12 col-md-6 col-lg-6">
+            <!-- <div class="col-sm-12 col-md-6 col-lg-6">
               <nav>
                 <ul class="list-unstyled footer__copyright-links d-flex flex-wrap justify-content-end mb-0">
                   <li><a href="#">Terms & Conditions</a></li>
@@ -91,7 +91,7 @@
                   <li><a href="#">Cookies</a></li>
                 </ul>
               </nav>
-            </div><!-- /.col-lg-6 -->
+            </div>/.col-lg-6 -->
           </div><!-- /.row -->
         </div><!-- /.container -->
       </div><!-- /.footer-secondary -->

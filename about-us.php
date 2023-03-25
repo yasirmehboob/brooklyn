@@ -233,7 +233,7 @@
      Work Process 
     ========================= -->
     <section class="work-process work-process-carousel pt-130 pb-0 bg-overlay bg-overlay-secondary">
-      <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="background"></div>
+      <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="background" style="width: 30px;"></div>
       <div class="container">
         <div class="row heading-layout2">
           <div class="col-12">
@@ -249,6 +249,7 @@
           <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6 offset-xl-1">
             <p class="heading__desc font-weight-bold color-gray mb-40" >Almighty can bestow health to diseased ones through medicines. Our aim at Brooklyn pharmaceuticals is to provide world class quality products to every citizen at economical price. We never dream to have palaces or huge bank balance but committed to provide honest means of earning to youth of the country so that they can use their energies in a positive way. Fundamental teachings of Silsila Aalia Qadria Chishtia focus on respect and equality for each and every human being of the world, so that peace and harmony can prosper everywhere. We should be more tolerant, affectionate to everyone so that we can present ourselves a best character nation among all, and play our role in helping others particularly our beloved motherland “Pakistan” to become a developed country.
             </p>
+
             <div class="col-12">
             <h3 class="heading__subtitle color-primary">Mr. Sufi Mohammad Ishaq Shah</h3>
           </div><!-- /.col-12 -->

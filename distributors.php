@@ -54,6 +54,7 @@
         <div class="row">
             
             <div class="col-sm-12 col-md-12 col-lg-8 fancybox-layout2">
+                <h4>Our Certified Distributors</h4>
               <div class="row">
                 <div class="col-sm-6">
                   <!-- fancybox item #1 -->

@@ -69,7 +69,7 @@
 
           
           <li class="nav__item">
-            <a href="#"  class="nav__item-link">Get Quote</a>
+            <a href="get-quote.php"  class="nav__item-link">Get Quote</a>
           </li><!-- /.nav-item -->
 
           <li class="nav__item">

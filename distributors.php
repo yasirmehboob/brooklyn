@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
   <meta name="description" content="Brooklyn Pharmaceuticals">
-  <title>Brooklyn Pharmaceuticals | Distributors</title>
+  <title>Distributors | Brooklyn Pharmaceuticals</title>
   <link rel="shortcut icon" href="assets\images\favicon\favicon.png" type="image/x-icon">
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
@@ -119,7 +119,7 @@
                   <div class="widget__icon">
                     <i class="icon-call3"></i>
                   </div>
-                  <h4 class="widget__title">Emergency Case</h4>
+                  <h4 class="widget__title">Helpline / Landline</h4>
                   <p class="widget__desc">Please feel welcome to contact our friendly reception staff. With any general
                    enquiry call us.
                   </p>

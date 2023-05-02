@@ -37,7 +37,7 @@
     <!-- ==========================
         contact layout 1
     =========================== -->
-    <section class="contact-layout1" style="padding-bottom: 100px;">
+    <section class="contact-layout1" style="padding-bottom: 100px; padding-top: 50px;">
       <div class="container">
         <div class="row">
           <div class="col-12">
@@ -99,7 +99,7 @@
               </form>
                 
                 
-            <div class="contact-panel__info flex-column" id="accordion" style="padding:55px 20px;">
+            <div class="contact-panel__info flex-column" id="accordion" style="padding:1px 20px;">
                 <h4 class="contact-panel__title">Quote FAQs</h4>
             <div class="accordion-item opened">
               <div class="accordion__header" data-toggle="collapse" data-target="#collapse3">

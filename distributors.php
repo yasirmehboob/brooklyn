@@ -62,8 +62,8 @@
                       <i class="icon-diploma"></i>
                     </div><!-- /.fancybox__icon -->
                     <div class="fancybox__content">
-                      <h4 class="fancybox__title">Edison Awards</h4>
-                      <p class="fancybox__desc">Honoring excellence in innovation</p>
+                      <h4 class="fancybox__title">Multi Pharma</h4>
+                      <p class="fancybox__desc">Rawalpindi & Islamabad.</p>
                     </div><!-- /.fancybox-content -->
                   </div><!-- /.fancybox-item -->
                 </div><!-- /.col-sm-6 -->
@@ -74,8 +74,8 @@
                       <i class="icon-diploma"></i>
                     </div><!-- /.fancybox__icon -->
                     <div class="fancybox__content">
-                      <h4 class="fancybox__title">Edwin Grant Medal</h4>
-                      <p class="fancybox__desc">Research in developmental biology</p>
+                      <h4 class="fancybox__title">Al Shifa Traders</h4>
+                      <p class="fancybox__desc">Mianwalli</p>
                     </div><!-- /.fancybox-content -->
                   </div><!-- /.fancybox-item -->
                 </div><!-- /.col-sm-6 -->
@@ -86,8 +86,8 @@
                       <i class="icon-diploma"></i>
                     </div><!-- /.fancybox__icon -->
                     <div class="fancybox__content">
-                      <h4 class="fancybox__title">Robert L. Noble Prize</h4>
-                      <p class="fancybox__desc">Canadian Cancer Society</p>
+                      <h4 class="fancybox__title">Friends Medicine Company</h4>
+                      <p class="fancybox__desc">Peshawar</p>
                     </div><!-- /.fancybox-content -->
                   </div><!-- /.fancybox-item -->
                 </div><!-- /.col-sm-6 -->
@@ -98,8 +98,8 @@
                       <i class="icon-diploma"></i>
                     </div><!-- /.fancybox__icon -->
                     <div class="fancybox__content">
-                      <h4 class="fancybox__title">National Prize for Medicine</h4>
-                      <p class="fancybox__desc">Chilean Academy of Medicine etc.</p>
+                      <h4 class="fancybox__title">United Distributors</h4>
+                      <p class="fancybox__desc">Haripur, Abbotabad, Mansehra</p>
                     </div><!-- /.fancybox-content -->
                   </div><!-- /.fancybox-item -->
                 </div><!-- /.col-sm-6 -->

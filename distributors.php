@@ -34,7 +34,7 @@
       <div class="container">
         <div class="row">
           <div class="col-12 d-flex justify-content-between flex-wrap align-items-center">
-            <h1 class="pagetitle__heading my-3">Distributors Network</h1>
+            <h1 class="pagetitle__heading my-3">Distribution Network</h1>
             <nav>
               <ol class="breadcrumb my-3">
                 <li class="breadcrumb-item"><a href="index.php">Home</a></li>
@@ -52,38 +52,6 @@
     <section class="faq pt-120 pb-70">
       <div class="container">
         <div class="row">
-          <div class="col-sm-12 col-md-12 col-lg-4">
-            <aside class="sidebar has-marign-right">
-              <div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
-                <div class="bg-img"><img src="assets/images/banners/5.jpg" alt="background"></div>
-                <div class="widget-content">
-                  <div class="widget__icon">
-                    <i class="icon-call3"></i>
-                  </div>
-                  <h4 class="widget__title">Emergency Case</h4>
-                  <p class="widget__desc">Please feel welcome to contact our friendly reception staff. With any general
-                   enquiry call us.
-                  </p>
-                  <a href="tel:(051) 4949539" class="phone__number">
-                    <i class="icon-phone"></i> <span>(051) 4949538-9</span>
-                  </a>
-                </div><!-- /.widget-content -->
-              </div><!-- /.widget-help -->
-              <div class="widget widget-schedule">
-                <div class="widget-content">
-                  <div class="widget__icon">
-                    <i class="icon-charity2"></i>
-                  </div>
-                  <h4 class="widget__title">Working Hours</h4>
-                  <ul class="time__list list-unstyled mb-0">
-                    <li><span>Monday - Saturday</span><span>9.00 am - 4:30 pm</span></li>
-                  </ul>
-                </div><!-- /.widget-content -->
-              </div><!-- /.widget-schedule -->
-            
-            </aside><!-- /.sidebar -->
-          </div><!-- /.col-lg-4 -->
-          
             
             <div class="col-sm-12 col-md-12 col-lg-8 fancybox-layout2">
               <div class="row">
@@ -137,6 +105,42 @@
                 </div><!-- /.col-sm-6 -->
               </div><!-- /.row -->
             </div><!-- /.fancybox-layout2 -->
+            
+            
+            
+            
+            
+             <div class="col-sm-12 col-md-12 col-lg-4">
+            <aside class="sidebar has-marign-right">
+              <div class="widget widget-help bg-overlay bg-overlay-secondary-gradient">
+                <div class="bg-img"><img src="assets/images/banners/5.jpg" alt="background"></div>
+                <div class="widget-content">
+                  <div class="widget__icon">
+                    <i class="icon-call3"></i>
+                  </div>
+                  <h4 class="widget__title">Emergency Case</h4>
+                  <p class="widget__desc">Please feel welcome to contact our friendly reception staff. With any general
+                   enquiry call us.
+                  </p>
+                  <a href="tel:(051) 4949539" class="phone__number">
+                    <i class="icon-phone"></i> <span>(051) 4949538-9</span>
+                  </a>
+                </div><!-- /.widget-content -->
+              </div><!-- /.widget-help -->
+              <div class="widget widget-schedule">
+                <div class="widget-content">
+                  <div class="widget__icon">
+                    <i class="icon-charity2"></i>
+                  </div>
+                  <h4 class="widget__title">Working Hours</h4>
+                  <ul class="time__list list-unstyled mb-0">
+                    <li><span>Monday - Saturday</span><span>9.00 am - 4:30 pm</span></li>
+                  </ul>
+                </div><!-- /.widget-content -->
+              </div><!-- /.widget-schedule -->
+            
+            </aside><!-- /.sidebar -->
+          </div><!-- /.col-lg-4 -->
             
         </div><!-- /.row -->
       </div><!-- /.container -->

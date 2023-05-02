@@ -64,7 +64,7 @@
 
 
           <li class="nav__item">
-            <a href="#"  class="nav__item-link">Distributors</a>
+            <a href="distributors.php"  class="nav__item-link">Distributors</a>
           </li><!-- /.nav-item -->
 
           

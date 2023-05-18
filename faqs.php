@@ -118,12 +118,12 @@
             </div><!-- /.accordion-item -->
             <div class="accordion-item">
               <div class="accordion__header" data-toggle="collapse" data-target="#collapse4">
-                <a class="accordion__title" href="#">What if I pick the wrong plan?</a>
+                <a class="accordion__title" href="#">What if I pick the wrong product?</a>
               </div><!-- /.accordion-item-header -->
               <div id="collapse4" class="collapse" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
+                  <p>
+                    </p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->

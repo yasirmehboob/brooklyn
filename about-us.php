@@ -35,7 +35,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5">
             <h1 class="pagetitle__heading">QUALITY, SAFETY & EFFICACY</h1>
-            <p class="pagetitle__desc">Brooklyn Pharmaceuticals has been present in Asia since 2010, We have a Firm Belief that Quality and Efficiacy of our products Speaks itself.
+            <p class="pagetitle__desc">Brooklyn Pharmaceuticals has been present in Asia since 2010. We have a Firm Belief that Quality and Efficiacy of our products Speaks itself.
             </p>
   
            
@@ -80,7 +80,7 @@
     Features Layout 1
     ========================= -->
     <section class="features-layout1 pt-130 pb-50 mt--90">
-      <div class="bg-img"><img src="assets/images/backgrounds/1.jpg" alt="background"></div>
+      <!-- <div class="bg-img"><img src="assets/images/backgrounds/1.jpg" alt="background"></div> -->
       <div class="container">
         <div class="row mb-40">
           <div class="col-sm-12 col-md-12 col-lg-6">

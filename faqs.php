@@ -101,8 +101,8 @@
               </div><!-- /.accordion-item-header -->
               <div id="collapse1" class="collapse" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
+                  <p>With any product that you buy, it is important that you know you are getting the best
+                    advice from our staff as often</p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->
@@ -118,115 +118,67 @@
             </div><!-- /.accordion-item -->
             <div class="accordion-item">
               <div class="accordion__header" data-toggle="collapse" data-target="#collapse4">
-                <a class="accordion__title" href="#">What if I pick the wrong product?</a>
+                <a class="accordion__title" href="#">How should I store my Vitamins?</a>
               </div><!-- /.accordion-item-header -->
               <div id="collapse4" class="collapse" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>
+                  <p>We Recommend storing your Brooklyn Pharmaceuticals products Below 30&deg; and away from Heat , Light and Moisture.
                     </p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->
             <div class="accordion-item">
               <div class="accordion__header" data-toggle="collapse" data-target="#collapse5">
-                <a class="accordion__title" href="#">Any contracts or commitments?</a>
+                <a class="accordion__title" href="#">What is the Size of your Vitamins?</a>
               </div><!-- /.accordion-item-header -->
               <div id="collapse5" class="collapse" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
-                </div><!-- /.accordion-item-body -->
-              </div>
-            </div><!-- /.accordion-item -->
-            <div class="accordion-item">
-              <div class="accordion__header" data-toggle="collapse" data-target="#collapse4">
-                <a class="accordion__title" href="#">What if I pick the wrong product?</a>
-              </div><!-- /.accordion-item-header -->
-              <div id="collapse4" class="collapse" data-parent="#accordion">
-                <div class="accordion__body">
-                  <p>If you picked the wrong product just Contact the Support for Further Assistance.
-                    It is appreciated to Contact us if you are doubted about anything.
-                  </p>
+                  <p>Our products comes In different forms ( Tablet , Chewable Tablet and Sachet ). Therefore size of product will vary depending on the vitamins or mineral suppliment. </p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->
             <div class="accordion-item">
               <div class="accordion__header" data-toggle="collapse" data-target="#collapse5">
-                <a class="accordion__title" href="#">Any contracts or commitments?</a>
+                <a class="accordion__title" href="#">Can I take more than What is Recommended on the Label?</a>
               </div><!-- /.accordion-item-header -->
               <div id="collapse5" class="collapse" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
+                  <p>It is recommended to follow the directions as stated on product label. For any change in recommended use consult your Health Care Professional.</p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->
             <div class="accordion-item">
               <div class="accordion__header" data-toggle="collapse" data-target="#collapse1">
-                <a class="accordion__title" href="#">Which Plan Is Right For Me?</a>
+                <a class="accordion__title" href="#">Do I take the suppliment with food or without food?</a>
               </div><!-- /.accordion-item-header -->
               <div id="collapse1" class="collapse" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
+                  <p>Vitamins can be taken with or without food. Check with your Health Care Professional to see what they recommend taking any suppliment with or without food.</p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->
             <div class="accordion-item">
               <div class="accordion__header" data-toggle="collapse" data-target="#collapse2">
-                <a class="accordion__title" href="#">Do I have to commit to a contract?</a>
+                <a class="accordion__title" href="#">Where can I contact for any query or complaint?</a>
               </div><!-- /.accordion-item-header -->
               <div id="collapse2" class="collapse" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
+                  <p>For your queries or complaints contact us here.</p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->
             <div class="accordion-item">
               <div class="accordion__header" data-toggle="collapse" data-target="#collapse4">
-                <a class="accordion__title" href="#">What if I pick the wrong plan?</a>
+                <a class="accordion__title" href="#">Is it necessary to take tablets with a glass of water?</a>
               </div><!-- /.accordion-item-header -->
               <div id="collapse4" class="collapse" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
+                  <p>Yes! Always ensure to take tablets (other than chewable) with glass of water to help swallow and wash it down. </p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->
-            <div class="accordion-item">
-              <div class="accordion__header" data-toggle="collapse" data-target="#collapse5">
-                <a class="accordion__title" href="#">Any contracts or commitments?</a>
-              </div><!-- /.accordion-item-header -->
-              <div id="collapse5" class="collapse" data-parent="#accordion">
-                <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
-                </div><!-- /.accordion-item-body -->
-              </div>
-            </div><!-- /.accordion-item -->
-            <div class="accordion-item">
-              <div class="accordion__header" data-toggle="collapse" data-target="#collapse4">
-                <a class="accordion__title" href="#">What if I pick the wrong plan?</a>
-              </div><!-- /.accordion-item-header -->
-              <div id="collapse4" class="collapse" data-parent="#accordion">
-                <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
-                </div><!-- /.accordion-item-body -->
-              </div>
-            </div><!-- /.accordion-item -->
-            <div class="accordion-item">
-              <div class="accordion__header" data-toggle="collapse" data-target="#collapse5">
-                <a class="accordion__title" href="#">Any contracts or commitments?</a>
-              </div><!-- /.accordion-item-header -->
-              <div id="collapse5" class="collapse" data-parent="#accordion">
-                <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
-                </div><!-- /.accordion-item-body -->
-              </div>
-            </div><!-- /.accordion-item -->
+            
+            
           </div><!-- /.col-lg-8 -->
         </div><!-- /.row -->
       </div><!-- /.container -->

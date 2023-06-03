@@ -198,7 +198,7 @@
                 <a href="about-us.php" class="btn btn__white btn__rounded mr-30">
                   <span>About Brooklyn</span> <i class="icon-arrow-right"></i>
                 </a>
-                <a href="distribution.php" class="btn btn__white btn__outlined btn__rounded">
+                <a href="distributors.php" class="btn btn__white btn__outlined btn__rounded">
                   Distributions
                 </a>
               </div>

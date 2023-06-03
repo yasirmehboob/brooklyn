@@ -35,7 +35,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5">
             <h1 class="pagetitle__heading">QUALITY, SAFETY & EFFICACY</h1>
-            <p class="pagetitle__desc">Brooklyn Pharmaceuticals has been present in Asia since 2010, We have a Firm Belief that Quality and Efficiacy of our products Speaks itself.
+            <p class="pagetitle__desc">Brooklyn Pharmaceuticals has been present in Asia since 2010. We have a Firm Belief that Quality and Efficiacy of our products Speaks itself.
             </p>
   
            
@@ -59,24 +59,11 @@
         <div class="row">
           <div class="col-sm-12 col-md-12 col-lg-6">
             <div class="about__Text">
-<<<<<<< Updated upstream
               <p class="mb-30">Our Vision is to be the leading and most trusted excellent quality Nutraceutical Company by delivering safe and effective health supplements to people across the globe.
               </p>
               <p class="mb-30">Brooklyn Pharmaceuticals started its business as Nutraceutical Importer since 2010. Brooklyn Pharmaceuticals imports a range of absolutely world class Nutraceutical products which include variety of natural herb, vitamin, and mineral combination products from one of the best international Nutraceutical manufacturing company situated at USA.</p>
-                <p class="mb-30">Now Brooklyn Pharmaceuticals has established its own manufacturing facility to produce world class Nutraceutical products according to International Quality standards.</p>
-=======
-                
-              <p class="mb-30">Our goal is to deliver quality of care in a courteous, respectful, and compassionate
-                manner. We hope you will allow us to care for you and to be the first and best choice for healthcare.
-              </p>
-                
-              <p class="mb-30">We will work with you to develop individualised care plans, including management of
-                chronic diseases. We are committed to being the region’s premier healthcare network providing patient
-                centered care that inspires clinical and service excellence.</p>
-                
-                <p class="mb-30">We will work with you to develop individualised care plans, including management of
-                chronic diseases. We are committed to being.</p>
->>>>>>> Stashed changes
+                <p class="mb-30">Now Brooklyn Pharmaceuticals has established its own manufacturing facility to produce world class Nutraceutical products according to International Quality standards.</p>   
+              
             </div>
           </div><!-- /.col-lg-6 -->
           <div class="col-sm-12 col-md-12 col-lg-6">
@@ -93,7 +80,7 @@
     Features Layout 1
     ========================= -->
     <section class="features-layout1 pt-130 pb-50 mt--90">
-      <div class="bg-img"><img src="assets/images/backgrounds/1.jpg" alt="background"></div>
+      <!-- <div class="bg-img"><img src="assets/images/backgrounds/1.jpg" alt="background"></div> -->
       <div class="container">
         <div class="row mb-40">
           <div class="col-sm-12 col-md-12 col-lg-6">

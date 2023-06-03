@@ -63,7 +63,7 @@ body {
   background-color: #ffffff;
   font-family: "Roboto", sans-serif;
   font-size: 14px;
-  color: #848e9f;
+  color: #213360;
   overflow-x: hidden;
 }
 
@@ -1618,7 +1618,7 @@ h6 {
 }
 
 .btn__white.btn__outlined {
-  color: #213360;
+  color: #ffffff;
   background-color: transparent;
   border: 2px solid #ffffff;
 }

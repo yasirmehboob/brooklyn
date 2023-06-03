@@ -117,8 +117,7 @@
               </div><!-- /.accordion-item-header -->
               <div id="collapse1" class="collapse" data-parent="#accordion">
                 <div class="accordion__body">
-                  <p>With any financial product that you buy, it is important that you know you are getting the best
-                    advice from a reputable company as often</p>
+                  <p>We're committed to helping you run your business. Our Customer Support Heroes work hard to provide fast, useful responses to your questions, usually within 10 business hours.</p>
                 </div><!-- /.accordion-item-body -->
               </div>
             </div><!-- /.accordion-item -->

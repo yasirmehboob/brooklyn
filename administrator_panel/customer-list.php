@@ -2,14 +2,6 @@
 $path  = 'admin/orna/';
 include('admin/orna/db.php');
 
-if(isset($_GET['category'])){
-    $_POST['category']=ucwords($_GET['category']);
-}
-
-if(isset($_GET['status'])){
-    $_POST['status']=$_GET['status'];
-}
-
 $where='';?>
 
 <!DOCTYPE html>
@@ -20,8 +12,8 @@ $where='';?>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title><?php echo @$_POST['category'];?> Users</title>
+    <link rel="icon" type="image/png" href="images/favico.png" />
+    <title>Customers</title>
 
     <!-- Bootstrap core CSS -->
 
@@ -93,62 +85,14 @@ $where='';?>
             <div class="right_col" role="main">
                 <div class="row">
 
-                    <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="col-md-12 col-sm-12 col-xs-12 ">
                         <div class="x_panel">
                             <div class="x_title">
-                                <h2><?php echo @$_POST['category'];?> Customers</h2>
-                                <div class="col-md-7 form-group pull-right top_search" style="margin-bottom:0;">
-                                        <!--Filter Buttion-->
-                                        <form action="customer-list.php" method="POST">
-                                            <div class="col-md-4">
-                                                <label class="control-label">Category</label>
-                                                <select class="form-control" name="category">
-                                                    <option value="*">All</option>
-                                                    <?php
-                                                    $sql1="select * from user_category where del ='N'";
-                                                    $query = mysql_query($sql1);
-                                                    while($filter=mysql_fetch_array($query)){
-                                                        print "<option value=\"".$filter['category']."\">".$filter['category']."</option>";
-                                                    }
-                                                    ?>
-                                                </select>
-                                                <script type="text/javascript">
-                                                    $(document).ready(function(){
-                                                       var post_value = '<?php echo @$_POST['category']?>';
-                                                        if (post_value != '') {
-                                                            $("select  option[value='"+post_value+"'").prop("selected", true);
-                                                        } 
-                                                    });
-                                                </script>
-
-                                            </div>
-                                            <div class="col-md-4">
-                                                <label class="control-label">Status</label>
-                                                <select class="form-control" name="status">
-                                                    <option value="*">All</option>
-                                                    <option value="approved">Approved</option>
-                                                    <option value="approval-pending">Approval Pending</option>
-                                                </select>
-                                                <script type="text/javascript">
-                                                    var post_value = '<?php echo @$_POST['status']?>';
-                                                    if (post_value != '') {
-                                                        $("select  option[value='"+post_value+"'").prop("selected", true);
-                                                    }
-                                                </script>
-                                            </div>
-
-                                            <div class="col-md-4">
-                                                <button type="submit" id="up" class="btn btn-success go">Filter</button>
-                                                
-                                                <a href="customer.php" class="btn btn-info go" >New Customer</a>
-                                            </div>
-
-                                        </form>
-                                        <!--Filter Buttion-->
-                                </div>
+                                <h2>Customers</h2>
+                                
                                 <div class="clearfix"></div>
                             </div>
-                            <div class="x_content">
+                            <div class="x_content fullheight">
                                 <table id="datatable" class="table table-striped table-bordered">
                                     <thead class="header">
                                         <tr>
@@ -160,7 +104,7 @@ $where='';?>
                                             <th width="10%">Reg. Date</th>
                                             <th>Status</th>
                                             <th>Edit Status</th>
-                                            <th width="16%">Tools</th>
+                                            <th width="9%">Action</th>
                                         </tr>
                                     </thead>
 
@@ -181,36 +125,15 @@ $where='';?>
                                                 $where.="";
                                             }
                                                     
-                                            if(isset($_POST['category']) && $_POST['category']!='*'){
-                                                if($where!=''){
-                                                    $where.=' AND ';
-                                                }else{
-                                                    $where.=" WHERE ";
-                                                }
-
-                                                $where.= "  `category`='".$_POST['category']."'";
-                                            }else{
-                                                $where.="";
-                                            }        
+                                            
                                             //------------Filter-----------------
                                                     
-                                            $sql="select * from users ".$where;
+                                            $sql="select * from customer ".$where;
                                             $query=mysql_query($sql);
                                                 $sr=0;
                                             while($result=mysql_fetch_array($query)){
                                                 $sr++;
-                                                if($result['status']=='approval-pending'){
-                                                        $status="<label class=\"label label-default\">Pending</label>";
-                                                        $action = "<a href=\"#\" class=\"btn btn-primary btn-xs approve\" data-toggle=\"modal\" data-target=\"#approve-modal\" data-user_id=\"".$result['id']."\" data-user_name=\"".$result['f_name'].' '.$result['l_name']."\"><i class=\"fa fa-check\"></i> Approve </a>";
-                                                    }
-                                                else if($result['status']=='approved'){
-                                                        $status="<label class=\"label label-success\">Approved</label>";
-                                                        $action = "<a href=\"#\" class=\"btn btn-danger btn-xs susspend\" data-toggle=\"modal\" data-target=\"#susspend-modal\" data-user_id=\"".$result['id']."\" data-user_name=\"".$result['f_name'].' '.$result['l_name']."\"><i class=\"fa fa-ban\"></i> Susspend </a>";
-                                                    }
-                                                else{
-                                                        $status="<label class=\"label label-danger\">Suspended</label>";
-                                                        $action = "<a href=\"#\" class=\"btn btn-warning btn-xs unsuspend\" data-toggle=\"modal\" data-target=\"#unsuspend-modal\" data-user_id=\"".$result['id']."\" data-user_name=\"".$result['f_name'].' '.$result['l_name']."\" data-suspend_category=\"".$result['category']."\"><i class=\"fa fa-check-circle-o\"></i> Unsuspend </a>";
-                                                }
+                                              
                                                 
                                                 if($result['dt']==''){
                                                     $result['dt']=time();
@@ -221,17 +144,14 @@ $where='';?>
                                                     <td>".$result['f_name'].' '.$result['l_name']."</td>
                                                     <td>".$result['mobile_number']."</td>
                                                     <td>".$result['email']."</td>
-                                                    <td>".$result['branch']."</td>
+                                                    <td></td>
                                                     <td>".date('d-M-Y', $result['dt'])."</td>
-                                                    <td>".$status."</td>
+                                                    <td></td>
                                                     
-                                                    <td>".$action."</td>
+                                                    <td></td>
                                                     
                                                     <td>
-                                                        <a href=\"customer-profile.php?customer=".$result['username']."\" class=\"btn btn-dark btn-xs\"><i class=\"fa fa-user\"></i> View Profile </a>
-                                                        
-                                                        <a href=\"users-edit.php?id=".$result['id']."&t=users\" class=\"btn btn-info btn-xs\"><i class=\"fa fa-pencil\"></i> Edit </a>
-                                                        
+                                                        <a href=\"customer_summary.php\" class=\"btn btn-primary btn-xs\"><i class=\"fa fa-address-card\"></i> Summary </a>
                                                     </td>
                                                 </tr>
                                                 ";

@@ -10,7 +10,7 @@ $where='';?>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <link rel="icon" type="image/png" href="images/favico.png" />
     <title>New Customer</title>
 
     <!-- Bootstrap core CSS -->
@@ -194,6 +194,7 @@ $where='';?>
                                             <button type="clear" class="btn btn-primary back">Cancel</button>
                                             <button type="submit" id="sv" class="btn btn-success">Save</button>
                                         </div>
+                                    </div>
                                     </div>
                                 </form>
                             </div>

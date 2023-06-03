@@ -10,7 +10,7 @@ $where='';?>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <link rel="icon" type="image/png" href="images/favico.png" />
     <title>Privilege</title>
 
     <!-- Bootstrap core CSS -->
@@ -29,11 +29,17 @@ $where='';?>
     <script src="js/jquery.min.js"></script>
     <script src="js/nprogress.js"></script>
 
+    <!--
     <link href="js/datatables/jquery.dataTables.min.css" rel="stylesheet" type="text/css" />
     <link href="js/datatables/buttons.bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="js/datatables/fixedHeader.bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="js/datatables/responsive.bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="js/datatables/scroller.bootstrap.min.css" rel="stylesheet" type="text/css" />    
+    -->
+    <link href="admin/plugin/animated_gradient/gradientFade.css" rel="stylesheet" type="text/css" />    
+    <link href="admin/plugin/datatables/css/jquery.dataTables.css" rel="stylesheet" type="text/css"/>
+    
+    
     <!--[if lt IE 9]>
         <script src="../assets/js/ie8-responsive-file-warning.js"></script>
         <![endif]-->
@@ -275,8 +281,12 @@ $where='';?>
         <script src="js/datatables/dataTables.scroller.min.js"></script>
         
     <script src="admin/ajax/js/delete_popup.js"></script>
+    <script src="admin/plugin/animated_gradient/gradientFade.js"></script>
+    
     
     <script>
+            gradientFade(2000);
+        
             var handleDataTableButtons = function () {
                     "use strict";
                     0 !== $("#datatable-buttons").length && $("#datatable-buttons").DataTable({

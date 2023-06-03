@@ -1,6 +1,6 @@
 <footer>
-    <div class="copyright-info">
-        <p class="pull-right"><?php echo $domain;?> - Mobile App Management Panel
+    <div class="copyright-info pull-right">
+        <p class="pull-right">BigShop ( An Ecommerce Platform ) | <?php echo $domain;?>
         </p>
     </div>
     <div class="clearfix"></div>

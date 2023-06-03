@@ -333,3 +333,11 @@ if (typeof NProgress != 'undefined') {
     });
 }
 /** ******  NProgress  *********************** **/
+
+
+/** ******  Full height  *********************** **/
+var container_height = $('.right_col').height();
+    parseInt(container_height);
+    container_height=(container_height-10);
+$('.fullheight').css({'minHeight': container_height+'px'});
+/** ******  Full Height  *********************** **/

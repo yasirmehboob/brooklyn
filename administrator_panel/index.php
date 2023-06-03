@@ -10,14 +10,18 @@ include('admin/orna/db.php');
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Welcome To Admin Panel</title>
+    <link rel="icon" type="image/png" href="images/favico.png" />
+    <title>Welcome To <?php echo $company;?></title>
     <!-- Bootstrap core CSS -->
+    
     <link href="css/bootstrap.min.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="css/bigshop.css">
     <link href="fonts/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/animate.min.css" rel="stylesheet">
-
     <!-- Custom styling plus plugins -->
+    <link href="admin/plugin/rickshaw/css/rickshaw.min.css" rel="stylesheet">
+    <link href="admin/plugin/Ionicons/css/ionicons.css" rel="stylesheet">
+    <link href="admin/plugin/perfect-scrollbar/css/perfect-scrollbar.min.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
     <script src="js/jquery.min.js"></script>
 
@@ -81,9 +85,13 @@ a{text-decoration: none !important;}
     </div>
     <script src="js/bootstrap.min.js"></script>
     <!-- bootstrap progress js -->
-    <script src="js/progressbar/bootstrap-progressbar.min.js"></script>
     <script src="js/nicescroll/jquery.nicescroll.min.js"></script>
     <script src="js/custom.js"></script>
+    <script src="js/ResizeSensor.js"></script>
+    <script src="admin/plugin/d3/js/d3.js"></script>
+    <script src="admin/plugin/rickshaw/js/rickshaw.min.js"></script>
+    <script src="admin/plugin/chart.js/js/Chart.js"></script>
+    
     <!-- flot js -->
     <!--[if lte IE 8]><script type="text/javascript" src="js/excanvas.min.js"></script><![endif]-->
 </body>

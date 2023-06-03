@@ -36,14 +36,15 @@ session_destroy();
 ?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <!-- Meta, title, CSS, favicons, etc. -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>Metafitnosis Login</title>
+    <link rel="icon" type="image/png" href="images/favico.png" />
+    <title>BigShop Login</title>
 
     <!-- Bootstrap core CSS -->
 
@@ -69,46 +70,172 @@ session_destroy();
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
     <style>
-        *{
-            color:black;
-            text-shadow:none;
+        * {
+            color: #616161;
+            text-shadow: none;
             text-decoration: none;
         }
-        a{
+
+        a {
             color: #767676;
         }
-        
-        .login_content h1:before{
-    background: rgb(92 23 135);
-    background: -moz-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    background: -webkit-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    background: -o-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    background: -ms-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    background: linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    left: 0;
-}
+
+        .login_content h1:before {
+
+            background: -webkit-linear-gradient(left, rgb(242 241 255) 0%, rgb(111 103 217) 100%);
+            left: 0;
+        }
+
         .login_content h1:after {
-    background: rgb(92 23 135);
-    background: -moz-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    background: -webkit-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    background: -o-linear-gradient(left, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    background: -ms-linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    background: linear-gradient(right, rgb(255, 255, 255) 0%, rgb(225, 87, 72) 100%);
-    right: 0;
-}
+            background: -webkit-linear-gradient(right, rgb(242 241 255) 0%, rgb(111 103 217) 100%);
+            right: 0;
+        }
+
+
+
+        /*color, position, internal time*/
+        #ocean {
+            z-index: 100;
+        }
+
+        .wave {
+            position: absolute;
+            bottom: 0;
+            background: #6f67d9;
+            opacity: 0.5;
+            display: inline-block;
+            height: 10%;
+            width: 10px;
+            position: absolute;
+            z-index: 5 !important;
+            animation-name: dostuff;
+            animation-duration: 2.74159s;
+            animation-iteration-count: infinite;
+            transition-timing-function: ease-in-out;
+        }
+
+        .wave_middle {
+            position: absolute;
+            bottom: 0;
+            background: #6e66d8;
+            opacity: 0.3;
+            display: inline-block;
+            height: 4%;
+            width: 10px;
+            position: absolute;
+            z-index: 5 !important;
+            animation-name: dostuff_mid;
+            animation-duration: 3.42s;
+            animation-iteration-count: infinite;
+            transition-timing-function: ease-in-out;
+        }
+
+        .wave_bottom {
+            position: absolute;
+            bottom: 0;
+            background: #8166d8;
+            opacity: 0.8;
+            display: inline-block;
+            height: 17%;
+            width: 10px;
+            position: absolute;
+            z-index: 5 !important;
+            animation-name: dostuff_bot;
+            animation-duration: 2.54s;
+            animation-iteration-count: infinite;
+            transition-timing-function: ease-in-out;
+        }
+
+        .wave_light {
+            position: absolute;
+            bottom: 20%;
+            background: #c8c4fc;
+            opacity: 0.5;
+            display: inline-block;
+            height: 16%;
+            width: 10px;
+            position: absolute;
+            z-index: 5 !important;
+            animation-name: dostuff_light;
+            animation-duration: 2s;
+            animation-iteration-count: infinite;
+            transition-timing-function: ease-in-out;
+        }
+
+        /* amplitude animation*/
+        @keyframes dostuff {
+            0% {
+                height: 35%;
+            }
+
+            50% {
+                height: 48%;
+            }
+
+            100% {
+                height: 35%;
+            }
+        }
+
+        @keyframes dostuff_mid {
+            0% {
+                height: 27%;
+            }
+
+            50% {
+                height: 36%;
+            }
+
+            100% {
+                height: 27%;
+            }
+        }
+
+        @keyframes dostuff_bot {
+            0% {
+                height: 17%;
+            }
+
+            50% {
+                height: 23%;
+            }
+
+            100% {
+                height: 17%;
+            }
+        }
+
+        @keyframes dostuff_light {
+            0% {
+                height: 1%;
+                bottom: 31%;
+            }
+
+            50% {
+                height: 4%;
+                bottom: 35%;
+            }
+
+            100% {
+                height: 1%;
+                bottom: 31%;
+            }
+        }
+
     </style>
 </head>
 
 <body style="background:#ffffff;">
+    <div id="ocean">
 
-    <div class="">
         <a class="hiddenanchor" id="toregister"></a>
         <a class="hiddenanchor" id="tologin"></a>
 
         <div id="wrapper">
+
             <div id="login" class="animate form">
                 <section class="login_content">
-                    <img src="images/logo.png" alt="Metafitnosis" width="90%"/>
+                    <img src="images/bigshop.png" alt="BigShop" width="90%" />
                     <form action="" method="post" id="login_form">
                         <h1><i class="fa fa-sign-in" aria-hidden="true"></i> Login</h1>
                         <div>
@@ -119,7 +246,7 @@ session_destroy();
                             <p class="response" style="color:red"></p>
                         </div>
                         <div>
-                            <button type="submit" class="btn btn-dark submit login" href="#">Log in</button>
+                            <button type="submit" class="btn btn-primary submit login" href="#">Log in</button>
                             <a class="reset_pass" href="#">Lost your password?</a>
                         </div>
                         <div class="clearfix"></div>
@@ -132,7 +259,8 @@ session_destroy();
                             <br />
                             <div>
                                 <p>©2017 All Rights Reserved.
-                                    <br> Privacy and Terms</p>
+                                    <br> Privacy and Terms
+                                </p>
                             </div>
                         </div>
                     </form>
@@ -142,7 +270,7 @@ session_destroy();
             </div>
             <div id="register" class="animate form">
                 <section class="login_content">
-                    <img src="images/logo-w.png" alt="Metafitnosis" width="90%"/>
+                    <img src="images/bigshop.png" alt="BigShop" width="90%" />
                     <form>
                         <h1>Create Account</h1>
                         <div>
@@ -155,7 +283,7 @@ session_destroy();
                             <input type="password" class="form-control" placeholder="Password" required="" />
                         </div>
                         <div>
-                            <a class="btn btn-dark submit" href="login.php">Submit</a>
+                            <a class="btn btn-primary submit" href="login.php">Submit</a>
                         </div>
                         <div class="clearfix"></div>
                         <div class="separator">
@@ -167,7 +295,8 @@ session_destroy();
                             <br />
                             <div>
                                 <p>©2015 All Rights Reserved.
-                                    <br> Privacy and Terms</p>
+                                    <br> Privacy and Terms
+                                </p>
                             </div>
                         </div>
                     </form>
@@ -176,8 +305,47 @@ session_destroy();
                 <!-- content -->
             </div>
         </div>
+
     </div>
-<script src="admin/ajax/js/login_check.js"></script>
+    <script src="admin/ajax/js/login_check.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+
+            // make some waves.
+            var ocean = document.getElementById("ocean"),
+                waveWidth = 5,
+                waveCount = Math.floor(window.innerWidth / waveWidth),
+                docFrag = document.createDocumentFragment();
+            for (var i = 0; i < waveCount; i++) {
+                var wave = document.createElement("div");
+                wave.className += " wave";
+                docFrag.appendChild(wave);
+                wave.style.left = i * waveWidth + "px";
+                wave.style.webkitAnimationDelay = (i / 100) + "s";
+
+                var wave_middle = document.createElement("div");
+                wave_middle.className += " wave_middle";
+                docFrag.appendChild(wave_middle);
+                wave_middle.style.left = i * waveWidth + "px";
+                wave_middle.style.webkitAnimationDelay = (i / 91) + "s";
+
+                var wave_bottom = document.createElement("div");
+                wave_bottom.className += " wave_bottom";
+                docFrag.appendChild(wave_bottom);
+                wave_bottom.style.left = i * waveWidth + "px";
+                wave_bottom.style.webkitAnimationDelay = (i / 97) + "s";
+
+                var wave_light = document.createElement("div");
+                wave_light.className += " wave_light";
+                docFrag.appendChild(wave_light);
+                wave_light.style.left = i * waveWidth + "px";
+                wave_light.style.webkitAnimationDelay = 0 + "s";
+
+            }
+            ocean.appendChild(docFrag);
+        });
+
+    </script>
 </body>
 
 </html>

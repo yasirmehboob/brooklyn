@@ -14,7 +14,7 @@ $customer= mysql_fetch_array($query_custoemr);
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <link rel="icon" type="image/png" href="images/favico.png" />
     <title><?php echo $customer['f_name'].' '.$customer['l_name'];?> Profile</title>
 
     <!-- Bootstrap core CSS -->
